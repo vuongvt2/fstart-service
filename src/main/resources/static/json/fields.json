@@ -1,0 +1,2330 @@
+[
+  {
+    "id": "3D_PRINTING",
+    "name": "3D Printing"
+  },
+  {
+    "id": "3D_TECHNOLOGY",
+    "name": "3D Technology"
+  },
+  {
+    "id": "A_B_TESTING",
+    "name": "A/B Testing"
+  },
+  {
+    "id": "ACCOUNTING",
+    "name": "Accounting"
+  },
+  {
+    "id": "AD_EXCHANGE",
+    "name": "Ad Exchange"
+  },
+  {
+    "id": "AD_NETWORK",
+    "name": "Ad Network"
+  },
+  {
+    "id": "AD_SERVER",
+    "name": "Ad Server"
+  },
+  {
+    "id": "AD_TARGETING",
+    "name": "Ad Targeting"
+  },
+  {
+    "id": "ADMINISTRATIVE_SERVICES",
+    "name": "Administrative Services"
+  },
+  {
+    "id": "ADVANCED_MATERIALS",
+    "name": "Advanced Materials"
+  },
+  {
+    "id": "ADVENTURE_TRAVEL",
+    "name": "Adventure Travel"
+  },
+  {
+    "id": "ADVERTISING",
+    "name": "Advertising"
+  },
+  {
+    "id": "ADVERTISING_PLATFORMS",
+    "name": "Advertising Platforms"
+  },
+  {
+    "id": "AEROSPACE",
+    "name": "Aerospace"
+  },
+  {
+    "id": "AFFILIATE_MARKETING",
+    "name": "Affiliate Marketing"
+  },
+  {
+    "id": "AGTECH",
+    "name": "AgTech"
+  },
+  {
+    "id": "AGRICULTURE",
+    "name": "Agriculture"
+  },
+  {
+    "id": "AGRICULTURE_AND_FARMING",
+    "name": "Agriculture and Farming"
+  },
+  {
+    "id": "AIR_TRANSPORTATION",
+    "name": "Air Transportation"
+  },
+  {
+    "id": "ALTERNATIVE_MEDICINE",
+    "name": "Alternative Medicine"
+  },
+  {
+    "id": "AMUSEMENT_PARK_AND_ARCADE",
+    "name": "Amusement Park and Arcade"
+  },
+  {
+    "id": "ANALYTICS",
+    "name": "Analytics"
+  },
+  {
+    "id": "ANGEL_INVESTMENT",
+    "name": "Angel Investment"
+  },
+  {
+    "id": "ANIMAL_FEED",
+    "name": "Animal Feed"
+  },
+  {
+    "id": "ANIMATION",
+    "name": "Animation"
+  },
+  {
+    "id": "APP_DISCOVERY",
+    "name": "App Discovery"
+  },
+  {
+    "id": "APP_MARKETING",
+    "name": "App Marketing"
+  },
+  {
+    "id": "APPLICATION_PERFORMANCE_MANAGEMENT",
+    "name": "Application Performance Management"
+  },
+  {
+    "id": "APPLICATION_SPECIFIC_INTEGRATED_CIRCUIT_ASIC",
+    "name": "Application Specific Integrated Circuit (ASIC)"
+  },
+  {
+    "id": "APPS",
+    "name": "Apps"
+  },
+  {
+    "id": "AQUACULTURE",
+    "name": "Aquaculture"
+  },
+  {
+    "id": "ARCHITECTURE",
+    "name": "Architecture"
+  },
+  {
+    "id": "ARCHIVING_SERVICE",
+    "name": "Archiving Service"
+  },
+  {
+    "id": "ART",
+    "name": "Art"
+  },
+  {
+    "id": "ARTIFICIAL_INTELLIGENCE",
+    "name": "Artificial Intelligence"
+  },
+  {
+    "id": "ASSET_MANAGEMENT",
+    "name": "Asset Management"
+  },
+  {
+    "id": "ASSISTED_LIVING",
+    "name": "Assisted Living"
+  },
+  {
+    "id": "ASSISTIVE_TECHNOLOGY",
+    "name": "Assistive Technology"
+  },
+  {
+    "id": "AUCTIONS",
+    "name": "Auctions"
+  },
+  {
+    "id": "AUDIO",
+    "name": "Audio"
+  },
+  {
+    "id": "AUDIOBOOKS",
+    "name": "Audiobooks"
+  },
+  {
+    "id": "AUGMENTED_REALITY",
+    "name": "Augmented Reality"
+  },
+  {
+    "id": "AUTO_INSURANCE",
+    "name": "Auto Insurance"
+  },
+  {
+    "id": "AUTOMATION",
+    "name": "Automation"
+  },
+  {
+    "id": "AUTOMOTIVE",
+    "name": "Automotive"
+  },
+  {
+    "id": "AUTONOMOUS_VEHICLES",
+    "name": "Autonomous Vehicles"
+  },
+  {
+    "id": "BANKING",
+    "name": "Banking"
+  },
+  {
+    "id": "BATTERY",
+    "name": "Battery"
+  },
+  {
+    "id": "BEAUTY",
+    "name": "Beauty"
+  },
+  {
+    "id": "BIG_DATA",
+    "name": "Big Data"
+  },
+  {
+    "id": "BIOFUEL",
+    "name": "Biofuel"
+  },
+  {
+    "id": "BIOINFORMATICS",
+    "name": "Bioinformatics"
+  },
+  {
+    "id": "BIOMASS_ENERGY",
+    "name": "Biomass Energy"
+  },
+  {
+    "id": "BIOMETRICS",
+    "name": "Biometrics"
+  },
+  {
+    "id": "BIOPHARMA",
+    "name": "Biopharma"
+  },
+  {
+    "id": "BIOTECHNOLOGY",
+    "name": "Biotechnology"
+  },
+  {
+    "id": "BLOCKCHAIN",
+    "name": "Blockchain"
+  },
+  {
+    "id": "BLOGGING_PLATFORMS",
+    "name": "Blogging Platforms"
+  },
+  {
+    "id": "BRAND_MARKETING",
+    "name": "Brand Marketing"
+  },
+  {
+    "id": "BROADCASTING",
+    "name": "Broadcasting"
+  },
+  {
+    "id": "BROWSER_EXTENSIONS",
+    "name": "Browser Extensions"
+  },
+  {
+    "id": "BUILDING_MAINTENANCE",
+    "name": "Building Maintenance"
+  },
+  {
+    "id": "BUILDING_MATERIAL",
+    "name": "Building Material"
+  },
+  {
+    "id": "BUSINESS_DEVELOPMENT",
+    "name": "Business Development"
+  },
+  {
+    "id": "BUSINESS_INFORMATION_SYSTEMS",
+    "name": "Business Information Systems"
+  },
+  {
+    "id": "BUSINESS_INTELLIGENCE",
+    "name": "Business Intelligence"
+  },
+  {
+    "id": "CAD",
+    "name": "CAD"
+  },
+  {
+    "id": "CRM",
+    "name": "CRM"
+  },
+  {
+    "id": "CALL_CENTER",
+    "name": "Call Center"
+  },
+  {
+    "id": "CAR_SHARING",
+    "name": "Car Sharing"
+  },
+  {
+    "id": "CAREER_PLANNING",
+    "name": "Career Planning"
+  },
+  {
+    "id": "CASINO",
+    "name": "Casino"
+  },
+  {
+    "id": "CHARITY",
+    "name": "Charity"
+  },
+  {
+    "id": "CHARTER_SCHOOLS",
+    "name": "Charter Schools"
+  },
+  {
+    "id": "CHEMICAL",
+    "name": "Chemical"
+  },
+  {
+    "id": "CHEMICAL_ENGINEERING",
+    "name": "Chemical Engineering"
+  },
+  {
+    "id": "CHILD_CARE",
+    "name": "Child Care"
+  },
+  {
+    "id": "CIVICTECH",
+    "name": "CivicTech"
+  },
+  {
+    "id": "CIVIL_ENGINEERING",
+    "name": "Civil Engineering"
+  },
+  {
+    "id": "CLASSIFIEDS",
+    "name": "Classifieds"
+  },
+  {
+    "id": "CLEAN_ENERGY",
+    "name": "Clean Energy"
+  },
+  {
+    "id": "CLEANTECH",
+    "name": "CleanTech"
+  },
+  {
+    "id": "CLINICAL_TRIALS",
+    "name": "Clinical Trials"
+  },
+  {
+    "id": "CLOTHING_AND_APPAREL",
+    "name": "Clothing and Apparel"
+  },
+  {
+    "id": "CLOUD_COMPUTING",
+    "name": "Cloud Computing"
+  },
+  {
+    "id": "CLOUD_DATA_SERVICES",
+    "name": "Cloud Data Services"
+  },
+  {
+    "id": "CLOUD_INFRASTRUCTURE",
+    "name": "Cloud Infrastructure"
+  },
+  {
+    "id": "CLOUD_MANAGEMENT",
+    "name": "Cloud Management"
+  },
+  {
+    "id": "CLOUD_SECURITY",
+    "name": "Cloud Security"
+  },
+  {
+    "id": "CLOUD_STORAGE",
+    "name": "Cloud Storage"
+  },
+  {
+    "id": "COLLABORATIVE_CONSUMPTION",
+    "name": "Collaborative Consumption"
+  },
+  {
+    "id": "COMMERCE_AND_SHOPPING",
+    "name": "Commerce and Shopping"
+  },
+  {
+    "id": "COMMERCIAL_INSURANCE",
+    "name": "Commercial Insurance"
+  },
+  {
+    "id": "COMMERCIAL_LENDING",
+    "name": "Commercial Lending"
+  },
+  {
+    "id": "COMMERCIAL_REAL_ESTATE",
+    "name": "Commercial Real Estate"
+  },
+  {
+    "id": "COMMUNICATION_HARDWARE",
+    "name": "Communication Hardware"
+  },
+  {
+    "id": "COMMUNICATIONS_INFRASTRUCTURE",
+    "name": "Communications Infrastructure"
+  },
+  {
+    "id": "COMMUNITIES",
+    "name": "Communities"
+  },
+  {
+    "id": "COMMUNITY_AND_LIFESTYLE",
+    "name": "Community and Lifestyle"
+  },
+  {
+    "id": "COMPLIANCE",
+    "name": "Compliance"
+  },
+  {
+    "id": "COMPUTER_VISION",
+    "name": "Computer Vision"
+  },
+  {
+    "id": "CONSTRUCTION",
+    "name": "Construction"
+  },
+  {
+    "id": "CONSULTING",
+    "name": "Consulting"
+  },
+  {
+    "id": "CONSUMER_APPLICATIONS",
+    "name": "Consumer Applications"
+  },
+  {
+    "id": "CONSUMER_ELECTRONICS",
+    "name": "Consumer Electronics"
+  },
+  {
+    "id": "CONSUMER_GOODS",
+    "name": "Consumer Goods"
+  },
+  {
+    "id": "CONSUMER_LENDING",
+    "name": "Consumer Lending"
+  },
+  {
+    "id": "CONSUMER_RESEARCH",
+    "name": "Consumer Research"
+  },
+  {
+    "id": "CONSUMER_REVIEWS",
+    "name": "Consumer Reviews"
+  },
+  {
+    "id": "CONSUMER_SOFTWARE",
+    "name": "Consumer Software"
+  },
+  {
+    "id": "CONTACT_MANAGEMENT",
+    "name": "Contact Management"
+  },
+  {
+    "id": "CONTENT_CREATORS",
+    "name": "Content Creators"
+  },
+  {
+    "id": "CONTENT_DELIVERY_NETWORK",
+    "name": "Content Delivery Network"
+  },
+  {
+    "id": "CONTENT_DISCOVERY",
+    "name": "Content Discovery"
+  },
+  {
+    "id": "CONTENT_MARKETING",
+    "name": "Content Marketing"
+  },
+  {
+    "id": "CONTENT_AND_PUBLISHING",
+    "name": "Content and Publishing"
+  },
+  {
+    "id": "CONTENT_MANAGEMENT_SYSTEM",
+    "name": "Content management system"
+  },
+  {
+    "id": "CONTINUING_EDUCATION",
+    "name": "Continuing Education"
+  },
+  {
+    "id": "CORPORATE_TRAINING",
+    "name": "Corporate Training"
+  },
+  {
+    "id": "CORRECTIONS_FACILITIES",
+    "name": "Corrections Facilities"
+  },
+  {
+    "id": "COSMETIC_SURGERY",
+    "name": "Cosmetic Surgery"
+  },
+  {
+    "id": "COSMETICS",
+    "name": "Cosmetics"
+  },
+  {
+    "id": "COUPONS",
+    "name": "Coupons"
+  },
+  {
+    "id": "COWORKING",
+    "name": "Coworking"
+  },
+  {
+    "id": "CREATIVE_AGENCY",
+    "name": "Creative Agency"
+  },
+  {
+    "id": "CREDIT",
+    "name": "Credit"
+  },
+  {
+    "id": "CREDIT_CARDS",
+    "name": "Credit Cards"
+  },
+  {
+    "id": "CROWDFUNDING",
+    "name": "Crowdfunding"
+  },
+  {
+    "id": "CROWDSOURCING",
+    "name": "Crowdsourcing"
+  },
+  {
+    "id": "CRYPTOCURRENCY",
+    "name": "Cryptocurrency"
+  },
+  {
+    "id": "CUSTOMER_SERVICE",
+    "name": "Customer Service"
+  },
+  {
+    "id": "CYBER_SECURITY",
+    "name": "Cyber Security"
+  },
+  {
+    "id": "DATA_CENTER",
+    "name": "Data Center"
+  },
+  {
+    "id": "DATA_CENTER_AUTOMATION",
+    "name": "Data Center Automation"
+  },
+  {
+    "id": "DATA_INTEGRATION",
+    "name": "Data Integration"
+  },
+  {
+    "id": "DATA_MINING",
+    "name": "Data Mining"
+  },
+  {
+    "id": "DATA_STORAGE",
+    "name": "Data Storage"
+  },
+  {
+    "id": "DATA_VISUALIZATION",
+    "name": "Data Visualization"
+  },
+  {
+    "id": "DATA_AND_ANALYTICS",
+    "name": "Data and Analytics"
+  },
+  {
+    "id": "DATABASE",
+    "name": "Database"
+  },
+  {
+    "id": "DATING",
+    "name": "Dating"
+  },
+  {
+    "id": "DEBIT_CARDS",
+    "name": "Debit Cards"
+  },
+  {
+    "id": "DELIVERY",
+    "name": "Delivery"
+  },
+  {
+    "id": "DELIVERY_SERVICE",
+    "name": "Delivery Service"
+  },
+  {
+    "id": "DENTAL",
+    "name": "Dental"
+  },
+  {
+    "id": "DESIGN",
+    "name": "Design"
+  },
+  {
+    "id": "DEVELOPER_APIS",
+    "name": "Developer APIs"
+  },
+  {
+    "id": "DEVELOPER_PLATFORM",
+    "name": "Developer Platform"
+  },
+  {
+    "id": "DEVELOPER_TOOLS",
+    "name": "Developer Tools"
+  },
+  {
+    "id": "DIETARY_SUPPLEMENTS",
+    "name": "Dietary Supplements"
+  },
+  {
+    "id": "DIGITAL_ENTERTAINMENT",
+    "name": "Digital Entertainment"
+  },
+  {
+    "id": "DIGITAL_MARKETING",
+    "name": "Digital Marketing"
+  },
+  {
+    "id": "DIGITAL_MEDIA",
+    "name": "Digital Media"
+  },
+  {
+    "id": "DIGITAL_TRANSFORMATION",
+    "name": "Digital Transformation"
+  },
+  {
+    "id": "DIGITAL_SIGNAL_PROCESSOR",
+    "name": "Digital signal processor"
+  },
+  {
+    "id": "DISTILLERY",
+    "name": "Distillery"
+  },
+  {
+    "id": "DO_IT_YOURSELF",
+    "name": "Do it yourself"
+  },
+  {
+    "id": "DOCUMENT_MANAGEMENT",
+    "name": "Document Management"
+  },
+  {
+    "id": "DOMAIN_REGISTRAR",
+    "name": "Domain Registrar"
+  },
+  {
+    "id": "DRONE_MANAGEMENT",
+    "name": "Drone Management"
+  },
+  {
+    "id": "DRONES",
+    "name": "Drones"
+  },
+  {
+    "id": "E_COMMERCE",
+    "name": "E-Commerce"
+  },
+  {
+    "id": "E_COMMERCE_PLATFORMS",
+    "name": "E-Commerce Platforms"
+  },
+  {
+    "id": "E_LEARNING",
+    "name": "E-Learning"
+  },
+  {
+    "id": "E_SIGNATURE",
+    "name": "E-Signature"
+  },
+  {
+    "id": "EBOOKS",
+    "name": "EBooks"
+  },
+  {
+    "id": "ECONOMICS",
+    "name": "Economics"
+  },
+  {
+    "id": "EDTECH",
+    "name": "EdTech"
+  },
+  {
+    "id": "EDISCOVERY",
+    "name": "Ediscovery"
+  },
+  {
+    "id": "EDUCATION",
+    "name": "Education"
+  },
+  {
+    "id": "EDUTAINMENT",
+    "name": "Edutainment"
+  },
+  {
+    "id": "ELDER_CARE",
+    "name": "Elder Care"
+  },
+  {
+    "id": "ELECTRIC_VEHICLE",
+    "name": "Electric Vehicle"
+  },
+  {
+    "id": "ELECTRICAL_DISTRIBUTION",
+    "name": "Electrical Distribution"
+  },
+  {
+    "id": "ELECTRONIC_DESIGN_AUTOMATION_EDA",
+    "name": "Electronic Design Automation (EDA)"
+  },
+  {
+    "id": "ELECTRONIC_HEALTH_RECORD_EHR",
+    "name": "Electronic Health Record (EHR)"
+  },
+  {
+    "id": "ELECTRONICS",
+    "name": "Electronics"
+  },
+  {
+    "id": "EMAIL_MARKETING",
+    "name": "Email Marketing"
+  },
+  {
+    "id": "EMBEDDED_SOFTWARE",
+    "name": "Embedded Software"
+  },
+  {
+    "id": "EMBEDDED_SYSTEMS",
+    "name": "Embedded Systems"
+  },
+  {
+    "id": "EMERGENCY_MEDICINE",
+    "name": "Emergency Medicine"
+  },
+  {
+    "id": "EMERGING_MARKETS",
+    "name": "Emerging Markets"
+  },
+  {
+    "id": "EMPLOYMENT",
+    "name": "Employment"
+  },
+  {
+    "id": "ENERGY",
+    "name": "Energy"
+  },
+  {
+    "id": "ENERGY_EFFICIENCY",
+    "name": "Energy Efficiency"
+  },
+  {
+    "id": "ENERGY_MANAGEMENT",
+    "name": "Energy Management"
+  },
+  {
+    "id": "ENERGY_STORAGE",
+    "name": "Energy Storage"
+  },
+  {
+    "id": "ENTERPRISE_APPLICATIONS",
+    "name": "Enterprise Applications"
+  },
+  {
+    "id": "ENTERPRISE_RESOURCE_PLANNING_ERP",
+    "name": "Enterprise Resource Planning (ERP)"
+  },
+  {
+    "id": "ENTERPRISE_SOFTWARE",
+    "name": "Enterprise Software"
+  },
+  {
+    "id": "ENVIRONMENT",
+    "name": "Environment"
+  },
+  {
+    "id": "ENVIRONMENTAL_CONSULTING",
+    "name": "Environmental Consulting"
+  },
+  {
+    "id": "ENVIRONMENTAL_ENGINEERING",
+    "name": "Environmental Engineering"
+  },
+  {
+    "id": "EVENT_MANAGEMENT",
+    "name": "Event Management"
+  },
+  {
+    "id": "EVENT_PROMOTION",
+    "name": "Event Promotion"
+  },
+  {
+    "id": "EVENTS",
+    "name": "Events"
+  },
+  {
+    "id": "EYEWEAR",
+    "name": "Eyewear"
+  },
+  {
+    "id": "FACIAL_RECOGNITION",
+    "name": "Facial Recognition"
+  },
+  {
+    "id": "FACILITIES_SUPPORT_SERVICES",
+    "name": "Facilities Support Services"
+  },
+  {
+    "id": "FACILITY_MANAGEMENT",
+    "name": "Facility Management"
+  },
+  {
+    "id": "FAMILY",
+    "name": "Family"
+  },
+  {
+    "id": "FARMERS_MARKET",
+    "name": "Farmers Market"
+  },
+  {
+    "id": "FARMING",
+    "name": "Farming"
+  },
+  {
+    "id": "FASHION",
+    "name": "Fashion"
+  },
+  {
+    "id": "FERTILITY",
+    "name": "Fertility"
+  },
+  {
+    "id": "FIELD_SUPPORT",
+    "name": "Field Support"
+  },
+  {
+    "id": "FIELD_PROGRAMMABLE_GATE_ARRAY_FPGA",
+    "name": "Field-Programmable Gate Array (FPGA)"
+  },
+  {
+    "id": "FILE_SHARING",
+    "name": "File Sharing"
+  },
+  {
+    "id": "FILM_DISTRIBUTION",
+    "name": "Film Distribution"
+  },
+  {
+    "id": "FILM_PRODUCTION",
+    "name": "Film Production"
+  },
+  {
+    "id": "FINTECH",
+    "name": "FinTech"
+  },
+  {
+    "id": "FINANCIAL_EXCHANGES",
+    "name": "Financial Exchanges"
+  },
+  {
+    "id": "FINANCIAL_SERVICES",
+    "name": "Financial Services"
+  },
+  {
+    "id": "FIRST_AID",
+    "name": "First Aid"
+  },
+  {
+    "id": "FITNESS",
+    "name": "Fitness"
+  },
+  {
+    "id": "FLASH_STORAGE",
+    "name": "Flash Storage"
+  },
+  {
+    "id": "FLEET_MANAGEMENT",
+    "name": "Fleet Management"
+  },
+  {
+    "id": "FOOD_DELIVERY",
+    "name": "Food Delivery"
+  },
+  {
+    "id": "FOOD_PROCESSING",
+    "name": "Food Processing"
+  },
+  {
+    "id": "FOOD_AND_BEVERAGE",
+    "name": "Food and Beverage"
+  },
+  {
+    "id": "FORESTRY",
+    "name": "Forestry"
+  },
+  {
+    "id": "FOSSIL_FUELS",
+    "name": "Fossil Fuels"
+  },
+  {
+    "id": "FRAUD_DETECTION",
+    "name": "Fraud Detection"
+  },
+  {
+    "id": "FREELANCE",
+    "name": "Freelance"
+  },
+  {
+    "id": "FREIGHT_SERVICE",
+    "name": "Freight Service"
+  },
+  {
+    "id": "FUEL",
+    "name": "Fuel"
+  },
+  {
+    "id": "FUEL_CELL",
+    "name": "Fuel Cell"
+  },
+  {
+    "id": "FUNDING_PLATFORM",
+    "name": "Funding Platform"
+  },
+  {
+    "id": "FURNITURE",
+    "name": "Furniture"
+  },
+  {
+    "id": "GPS",
+    "name": "GPS"
+  },
+  {
+    "id": "GPU",
+    "name": "GPU"
+  },
+  {
+    "id": "GAMING",
+    "name": "Gaming"
+  },
+  {
+    "id": "GENETICS",
+    "name": "Genetics"
+  },
+  {
+    "id": "GEOMECHANICS",
+    "name": "Geomechanics"
+  },
+  {
+    "id": "GEOSPATIAL",
+    "name": "Geospatial"
+  },
+  {
+    "id": "GIFT",
+    "name": "Gift"
+  },
+  {
+    "id": "GOVTECH",
+    "name": "GovTech"
+  },
+  {
+    "id": "GOVERNMENT",
+    "name": "Government"
+  },
+  {
+    "id": "GOVERNMENT_AND_MILITARY",
+    "name": "Government and Military"
+  },
+  {
+    "id": "GRAPHIC_DESIGN",
+    "name": "Graphic Design"
+  },
+  {
+    "id": "GREEN_BUILDING",
+    "name": "Green Building"
+  },
+  {
+    "id": "GREEN_CONSUMER_GOODS",
+    "name": "Green Consumer Goods"
+  },
+  {
+    "id": "GREENTECH",
+    "name": "GreenTech"
+  },
+  {
+    "id": "GROUP_BUYING",
+    "name": "Group Buying"
+  },
+  {
+    "id": "HARDWARE",
+    "name": "Hardware"
+  },
+  {
+    "id": "HEALTH_CARE",
+    "name": "Health Care"
+  },
+  {
+    "id": "HEALTH_DIAGNOSTICS",
+    "name": "Health Diagnostics"
+  },
+  {
+    "id": "HEALTH_INSURANCE",
+    "name": "Health Insurance"
+  },
+  {
+    "id": "HEDGE_FUNDS",
+    "name": "Hedge Funds"
+  },
+  {
+    "id": "HIGHER_EDUCATION",
+    "name": "Higher Education"
+  },
+  {
+    "id": "HOME_DECOR",
+    "name": "Home Decor"
+  },
+  {
+    "id": "HOME_HEALTH_CARE",
+    "name": "Home Health Care"
+  },
+  {
+    "id": "HOME_IMPROVEMENT",
+    "name": "Home Improvement"
+  },
+  {
+    "id": "HOME_RENOVATION",
+    "name": "Home Renovation"
+  },
+  {
+    "id": "HOME_SERVICES",
+    "name": "Home Services"
+  },
+  {
+    "id": "HOME_AND_GARDEN",
+    "name": "Home and Garden"
+  },
+  {
+    "id": "HOMELAND_SECURITY",
+    "name": "Homeland Security"
+  },
+  {
+    "id": "HOMELESS_SHELTER",
+    "name": "Homeless Shelter"
+  },
+  {
+    "id": "HORTICULTURE",
+    "name": "Horticulture"
+  },
+  {
+    "id": "HOSPITALITY",
+    "name": "Hospitality"
+  },
+  {
+    "id": "HOUSEKEEPING_SERVICE",
+    "name": "Housekeeping Service"
+  },
+  {
+    "id": "HUMAN_COMPUTER_INTERACTION",
+    "name": "Human Computer Interaction"
+  },
+  {
+    "id": "HUMAN_RESOURCES",
+    "name": "Human Resources"
+  },
+  {
+    "id": "HUMANITARIAN",
+    "name": "Humanitarian"
+  },
+  {
+    "id": "HYDROPONICS",
+    "name": "Hydroponics"
+  },
+  {
+    "id": "ISP",
+    "name": "ISP"
+  },
+  {
+    "id": "IT_INFRASTRUCTURE",
+    "name": "IT Infrastructure"
+  },
+  {
+    "id": "IT_MANAGEMENT",
+    "name": "IT Management"
+  },
+  {
+    "id": "IAAS",
+    "name": "IaaS"
+  },
+  {
+    "id": "IDENTITY_MANAGEMENT",
+    "name": "Identity Management"
+  },
+  {
+    "id": "IMAGE_RECOGNITION",
+    "name": "Image Recognition"
+  },
+  {
+    "id": "IMPACT_INVESTING",
+    "name": "Impact Investing"
+  },
+  {
+    "id": "IN_FLIGHT_ENTERTAINMENT",
+    "name": "In-Flight Entertainment"
+  },
+  {
+    "id": "INCUBATORS",
+    "name": "Incubators"
+  },
+  {
+    "id": "INDEPENDENT_MUSIC",
+    "name": "Independent Music"
+  },
+  {
+    "id": "INDOOR_POSITIONING",
+    "name": "Indoor Positioning"
+  },
+  {
+    "id": "INDUSTRIAL_AUTOMATION",
+    "name": "Industrial Automation"
+  },
+  {
+    "id": "INDUSTRIAL_DESIGN",
+    "name": "Industrial Design"
+  },
+  {
+    "id": "INDUSTRIAL_ENGINEERING",
+    "name": "Industrial Engineering"
+  },
+  {
+    "id": "INDUSTRIAL_MANUFACTURING",
+    "name": "Industrial Manufacturing"
+  },
+  {
+    "id": "INFORMATION_RETRIEVAL_AND_INFORMATION_EXTRACTION",
+    "name": "Information Retrieval and Information Extraction"
+  },
+  {
+    "id": "INFORMATION_SERVICES",
+    "name": "Information Services"
+  },
+  {
+    "id": "INFORMATION_TECHNOLOGY",
+    "name": "Information Technology"
+  },
+  {
+    "id": "INFORMATION_AND_COMMUNICATIONS_TECHNOLOGY_ICT",
+    "name": "Information and Communications Technology (ICT)"
+  },
+  {
+    "id": "INFRASTRUCTURE",
+    "name": "Infrastructure"
+  },
+  {
+    "id": "INNOVATION_MANAGEMENT",
+    "name": "Innovation Management"
+  },
+  {
+    "id": "INSURTECH",
+    "name": "InsurTech"
+  },
+  {
+    "id": "INSURANCE",
+    "name": "Insurance"
+  },
+  {
+    "id": "INTELLECTUAL_PROPERTY",
+    "name": "Intellectual Property"
+  },
+  {
+    "id": "INTELLIGENT_SYSTEMS",
+    "name": "Intelligent Systems"
+  },
+  {
+    "id": "INTERIOR_DESIGN",
+    "name": "Interior Design"
+  },
+  {
+    "id": "INTERNET_RADIO",
+    "name": "Internet Radio"
+  },
+  {
+    "id": "INTERNET_SERVICES",
+    "name": "Internet Services"
+  },
+  {
+    "id": "INTERNET_OF_THINGS",
+    "name": "Internet of Things"
+  },
+  {
+    "id": "INTRUSION_DETECTION",
+    "name": "Intrusion Detection"
+  },
+  {
+    "id": "JANITORIAL_SERVICE",
+    "name": "Janitorial Service"
+  },
+  {
+    "id": "JOURNALISM",
+    "name": "Journalism"
+  },
+  {
+    "id": "KNOWLEDGE_MANAGEMENT",
+    "name": "Knowledge Management"
+  },
+  {
+    "id": "LANGUAGE_LEARNING",
+    "name": "Language Learning"
+  },
+  {
+    "id": "LASER",
+    "name": "Laser"
+  },
+  {
+    "id": "LAST_MILE_TRANSPORTATION",
+    "name": "Last Mile Transportation"
+  },
+  {
+    "id": "LAW_ENFORCEMENT",
+    "name": "Law Enforcement"
+  },
+  {
+    "id": "LEAD_GENERATION",
+    "name": "Lead Generation"
+  },
+  {
+    "id": "LEAD_MANAGEMENT",
+    "name": "Lead Management"
+  },
+  {
+    "id": "LEASING",
+    "name": "Leasing"
+  },
+  {
+    "id": "LEGAL_SERVICES",
+    "name": "Legal Services"
+  },
+  {
+    "id": "LEGAL_TECH",
+    "name": "Legal Tech"
+  },
+  {
+    "id": "LEISURE",
+    "name": "Leisure"
+  },
+  {
+    "id": "LENDING",
+    "name": "Lending"
+  },
+  {
+    "id": "LENDING_AND_INVESTMENTS",
+    "name": "Lending and Investments"
+  },
+  {
+    "id": "LIFE_INSURANCE",
+    "name": "Life Insurance"
+  },
+  {
+    "id": "LIFE_SCIENCE",
+    "name": "Life Science"
+  },
+  {
+    "id": "LIFESTYLE",
+    "name": "Lifestyle"
+  },
+  {
+    "id": "LIGHTING",
+    "name": "Lighting"
+  },
+  {
+    "id": "LIMOUSINE_SERVICE",
+    "name": "Limousine Service"
+  },
+  {
+    "id": "LIVESTOCK",
+    "name": "Livestock"
+  },
+  {
+    "id": "LOCAL_ADVERTISING",
+    "name": "Local Advertising"
+  },
+  {
+    "id": "LOCAL_BUSINESS",
+    "name": "Local Business"
+  },
+  {
+    "id": "LOCAL_SHOPPING",
+    "name": "Local Shopping"
+  },
+  {
+    "id": "LOCATION_BASED_SERVICES",
+    "name": "Location Based Services"
+  },
+  {
+    "id": "LOGISTICS",
+    "name": "Logistics"
+  },
+  {
+    "id": "LOYALTY_PROGRAMS",
+    "name": "Loyalty Programs"
+  },
+  {
+    "id": "MACHINE_LEARNING",
+    "name": "Machine Learning"
+  },
+  {
+    "id": "MACHINERY_MANUFACTURING",
+    "name": "Machinery Manufacturing"
+  },
+  {
+    "id": "MANAGEMENT_CONSULTING",
+    "name": "Management Consulting"
+  },
+  {
+    "id": "MANAGEMENT_INFORMATION_SYSTEMS",
+    "name": "Management Information Systems"
+  },
+  {
+    "id": "MANUFACTURING",
+    "name": "Manufacturing"
+  },
+  {
+    "id": "MAPPING_SERVICES",
+    "name": "Mapping Services"
+  },
+  {
+    "id": "MARINE_TECHNOLOGY",
+    "name": "Marine Technology"
+  },
+  {
+    "id": "MARINE_TRANSPORTATION",
+    "name": "Marine Transportation"
+  },
+  {
+    "id": "MARKET_RESEARCH",
+    "name": "Market Research"
+  },
+  {
+    "id": "MARKETING",
+    "name": "Marketing"
+  },
+  {
+    "id": "MARKETING_AUTOMATION",
+    "name": "Marketing Automation"
+  },
+  {
+    "id": "MARKETPLACE",
+    "name": "Marketplace"
+  },
+  {
+    "id": "MASSIVE_OPEN_ONLINE_COURSE",
+    "name": "Massive Open Online Course"
+  },
+  {
+    "id": "MECHANICAL_DESIGN",
+    "name": "Mechanical Design"
+  },
+  {
+    "id": "MECHANICAL_ENGINEERING",
+    "name": "Mechanical Engineering"
+  },
+  {
+    "id": "MEDIA_AND_ENTERTAINMENT",
+    "name": "Media and Entertainment"
+  },
+  {
+    "id": "MEDICAL_DEVICE",
+    "name": "Medical Device"
+  },
+  {
+    "id": "MEETING_SOFTWARE",
+    "name": "Meeting Software"
+  },
+  {
+    "id": "MESSAGING_AND_TELECOMMUNICATIONS",
+    "name": "Messaging and Telecommunications"
+  },
+  {
+    "id": "MICRO_LENDING",
+    "name": "Micro Lending"
+  },
+  {
+    "id": "MINERAL",
+    "name": "Mineral"
+  },
+  {
+    "id": "MINING",
+    "name": "Mining"
+  },
+  {
+    "id": "MINING_TECHNOLOGY",
+    "name": "Mining Technology"
+  },
+  {
+    "id": "MOBILE_ADVERTISING",
+    "name": "Mobile Advertising"
+  },
+  {
+    "id": "MOBILE_APPS",
+    "name": "Mobile Apps"
+  },
+  {
+    "id": "MOBILE_DEVICES",
+    "name": "Mobile Devices"
+  },
+  {
+    "id": "MOBILE_PAYMENTS",
+    "name": "Mobile Payments"
+  },
+  {
+    "id": "MOTION_CAPTURE",
+    "name": "Motion Capture"
+  },
+  {
+    "id": "MULTI_LEVEL_MARKETING",
+    "name": "Multi-level Marketing"
+  },
+  {
+    "id": "MUSEUMS_AND_HISTORICAL_SITES",
+    "name": "Museums and Historical Sites"
+  },
+  {
+    "id": "MUSIC",
+    "name": "Music"
+  },
+  {
+    "id": "MUSIC_EDUCATION",
+    "name": "Music Education"
+  },
+  {
+    "id": "MUSIC_LABEL",
+    "name": "Music Label"
+  },
+  {
+    "id": "MUSIC_STREAMING",
+    "name": "Music Streaming"
+  },
+  {
+    "id": "MUSIC_AND_AUDIO",
+    "name": "Music and Audio"
+  },
+  {
+    "id": "MUSICAL_INSTRUMENTS",
+    "name": "Musical Instruments"
+  },
+  {
+    "id": "NANOTECHNOLOGY",
+    "name": "Nanotechnology"
+  },
+  {
+    "id": "NATIONAL_SECURITY",
+    "name": "National Security"
+  },
+  {
+    "id": "NATURAL_LANGUAGE_PROCESSING",
+    "name": "Natural Language Processing"
+  },
+  {
+    "id": "NATURAL_RESOURCES",
+    "name": "Natural Resources"
+  },
+  {
+    "id": "NAVIGATION",
+    "name": "Navigation"
+  },
+  {
+    "id": "NAVIGATION_AND_MAPPING",
+    "name": "Navigation and Mapping"
+  },
+  {
+    "id": "NEAR_FIELD_COMMUNICATION_NFC",
+    "name": "Near-Field Communication (NFC)"
+  },
+  {
+    "id": "NETWORK_HARDWARE",
+    "name": "Network Hardware"
+  },
+  {
+    "id": "NETWORK_SECURITY",
+    "name": "Network Security"
+  },
+  {
+    "id": "NEUROSCIENCE",
+    "name": "Neuroscience"
+  },
+  {
+    "id": "NEWS",
+    "name": "News"
+  },
+  {
+    "id": "NUCLEAR",
+    "name": "Nuclear"
+  },
+  {
+    "id": "NURSING_AND_RESIDENTIAL_CARE",
+    "name": "Nursing and Residential Care"
+  },
+  {
+    "id": "NUTRACEUTICAL",
+    "name": "Nutraceutical"
+  },
+  {
+    "id": "OFFICE_ADMINISTRATION",
+    "name": "Office Administration"
+  },
+  {
+    "id": "OIL_AND_GAS",
+    "name": "Oil and Gas"
+  },
+  {
+    "id": "ONLINE_AUCTIONS",
+    "name": "Online Auctions"
+  },
+  {
+    "id": "ONLINE_FORUMS",
+    "name": "Online Forums"
+  },
+  {
+    "id": "ONLINE_PORTALS",
+    "name": "Online Portals"
+  },
+  {
+    "id": "OPEN_SOURCE",
+    "name": "Open Source"
+  },
+  {
+    "id": "OPERATING_SYSTEMS",
+    "name": "Operating Systems"
+  },
+  {
+    "id": "OPTICAL_COMMUNICATION",
+    "name": "Optical Communication"
+  },
+  {
+    "id": "OTHER",
+    "name": "Other"
+  },
+  {
+    "id": "OUTDOOR_ADVERTISING",
+    "name": "Outdoor Advertising"
+  },
+  {
+    "id": "OUTPATIENT_CARE",
+    "name": "Outpatient Care"
+  },
+  {
+    "id": "OUTSOURCING",
+    "name": "Outsourcing"
+  },
+  {
+    "id": "PAAS",
+    "name": "PaaS"
+  },
+  {
+    "id": "PACKAGING_SERVICES",
+    "name": "Packaging Services"
+  },
+  {
+    "id": "PAPER_MANUFACTURING",
+    "name": "Paper Manufacturing"
+  },
+  {
+    "id": "PARENTING",
+    "name": "Parenting"
+  },
+  {
+    "id": "PARKING",
+    "name": "Parking"
+  },
+  {
+    "id": "PAYMENTS",
+    "name": "Payments"
+  },
+  {
+    "id": "PENETRATION_TESTING",
+    "name": "Penetration Testing"
+  },
+  {
+    "id": "PERFORMING_ARTS",
+    "name": "Performing Arts"
+  },
+  {
+    "id": "PERSONAL_BRANDING",
+    "name": "Personal Branding"
+  },
+  {
+    "id": "PERSONAL_DEVELOPMENT",
+    "name": "Personal Development"
+  },
+  {
+    "id": "PERSONAL_FINANCE",
+    "name": "Personal Finance"
+  },
+  {
+    "id": "PERSONAL_HEALTH",
+    "name": "Personal Health"
+  },
+  {
+    "id": "PERSONALIZATION",
+    "name": "Personalization"
+  },
+  {
+    "id": "PHARMACEUTICAL",
+    "name": "Pharmaceutical"
+  },
+  {
+    "id": "PHOTO_EDITING",
+    "name": "Photo Editing"
+  },
+  {
+    "id": "PHOTO_SHARING",
+    "name": "Photo Sharing"
+  },
+  {
+    "id": "PHOTOGRAPHY",
+    "name": "Photography"
+  },
+  {
+    "id": "PHYSICAL_SECURITY",
+    "name": "Physical Security"
+  },
+  {
+    "id": "PLASTICS_AND_RUBBER_MANUFACTURING",
+    "name": "Plastics and Rubber Manufacturing"
+  },
+  {
+    "id": "PLATFORMS",
+    "name": "Platforms"
+  },
+  {
+    "id": "PLAYSTATION",
+    "name": "Playstation"
+  },
+  {
+    "id": "PODCAST",
+    "name": "Podcast"
+  },
+  {
+    "id": "POINT_OF_SALE",
+    "name": "Point of Sale"
+  },
+  {
+    "id": "POLLUTION_CONTROL",
+    "name": "Pollution Control"
+  },
+  {
+    "id": "PORTS_AND_HARBORS",
+    "name": "Ports and Harbors"
+  },
+  {
+    "id": "POWER_GRID",
+    "name": "Power Grid"
+  },
+  {
+    "id": "PRECIOUS_METALS",
+    "name": "Precious Metals"
+  },
+  {
+    "id": "PREDICTION_MARKETS",
+    "name": "Prediction Markets"
+  },
+  {
+    "id": "PREDICTIVE_ANALYTICS",
+    "name": "Predictive Analytics"
+  },
+  {
+    "id": "PRESENTATION_SOFTWARE",
+    "name": "Presentation Software"
+  },
+  {
+    "id": "PRICE_COMPARISON",
+    "name": "Price Comparison"
+  },
+  {
+    "id": "PRIMARY_EDUCATION",
+    "name": "Primary Education"
+  },
+  {
+    "id": "PRINTING",
+    "name": "Printing"
+  },
+  {
+    "id": "PRIVACY",
+    "name": "Privacy"
+  },
+  {
+    "id": "PRIVACY_AND_SECURITY",
+    "name": "Privacy and Security"
+  },
+  {
+    "id": "PRIVATE_CLOUD",
+    "name": "Private Cloud"
+  },
+  {
+    "id": "PRIVATE_SOCIAL_NETWORKING",
+    "name": "Private Social Networking"
+  },
+  {
+    "id": "PROCUREMENT",
+    "name": "Procurement"
+  },
+  {
+    "id": "PRODUCT_DESIGN",
+    "name": "Product Design"
+  },
+  {
+    "id": "PRODUCT_RESEARCH",
+    "name": "Product Research"
+  },
+  {
+    "id": "PRODUCT_SEARCH",
+    "name": "Product Search"
+  },
+  {
+    "id": "PRODUCTIVITY_TOOLS",
+    "name": "Productivity Tools"
+  },
+  {
+    "id": "PROFESSIONAL_NETWORKING",
+    "name": "Professional Networking"
+  },
+  {
+    "id": "PROFESSIONAL_SERVICES",
+    "name": "Professional Services"
+  },
+  {
+    "id": "PROJECT_MANAGEMENT",
+    "name": "Project Management"
+  },
+  {
+    "id": "PROPERTY_DEVELOPMENT",
+    "name": "Property Development"
+  },
+  {
+    "id": "PROPERTY_INSURANCE",
+    "name": "Property Insurance"
+  },
+  {
+    "id": "PROPERTY_MANAGEMENT",
+    "name": "Property Management"
+  },
+  {
+    "id": "PSYCHOLOGY",
+    "name": "Psychology"
+  },
+  {
+    "id": "PUBLIC_RELATIONS",
+    "name": "Public Relations"
+  },
+  {
+    "id": "PUBLIC_SAFETY",
+    "name": "Public Safety"
+  },
+  {
+    "id": "PUBLIC_TRANSPORTATION",
+    "name": "Public Transportation"
+  },
+  {
+    "id": "PUBLISHING",
+    "name": "Publishing"
+  },
+  {
+    "id": "QR_CODES",
+    "name": "QR Codes"
+  },
+  {
+    "id": "QUALITY_ASSURANCE",
+    "name": "Quality Assurance"
+  },
+  {
+    "id": "QUANTIFIED_SELF",
+    "name": "Quantified Self"
+  },
+  {
+    "id": "QUANTUM_COMPUTING",
+    "name": "Quantum Computing"
+  },
+  {
+    "id": "RADIO_FREQUENCY_IDENTIFICATION",
+    "name": "Radio-frequency identification"
+  },
+  {
+    "id": "RAILROAD",
+    "name": "Railroad"
+  },
+  {
+    "id": "READING_APPS",
+    "name": "Reading Apps"
+  },
+  {
+    "id": "REAL_ESTATE",
+    "name": "Real Estate"
+  },
+  {
+    "id": "REAL_ESTATE_INVESTMENT",
+    "name": "Real Estate Investment"
+  },
+  {
+    "id": "RECIPES",
+    "name": "Recipes"
+  },
+  {
+    "id": "RECRUITING",
+    "name": "Recruiting"
+  },
+  {
+    "id": "RECYCLING",
+    "name": "Recycling"
+  },
+  {
+    "id": "REDUCED_INSTRUCTION_SET_COMPUTER",
+    "name": "Reduced instruction set computer"
+  },
+  {
+    "id": "REHABILITATION",
+    "name": "Rehabilitation"
+  },
+  {
+    "id": "RELIGION",
+    "name": "Religion"
+  },
+  {
+    "id": "RENEWABLE_ENERGY",
+    "name": "Renewable Energy"
+  },
+  {
+    "id": "RENTAL",
+    "name": "Rental"
+  },
+  {
+    "id": "RENTAL_PROPERTY",
+    "name": "Rental Property"
+  },
+  {
+    "id": "RESERVATIONS",
+    "name": "Reservations"
+  },
+  {
+    "id": "RESIDENTIAL",
+    "name": "Residential"
+  },
+  {
+    "id": "RETAIL",
+    "name": "Retail"
+  },
+  {
+    "id": "RETAIL_TECHNOLOGY",
+    "name": "Retail Technology"
+  },
+  {
+    "id": "RIDE_SHARING",
+    "name": "Ride Sharing"
+  },
+  {
+    "id": "RISK_MANAGEMENT",
+    "name": "Risk Management"
+  },
+  {
+    "id": "ROBOTICS",
+    "name": "Robotics"
+  },
+  {
+    "id": "STEM_EDUCATION",
+    "name": "STEM Education"
+  },
+  {
+    "id": "SAAS",
+    "name": "SaaS"
+  },
+  {
+    "id": "SALES_AUTOMATION",
+    "name": "Sales Automation"
+  },
+  {
+    "id": "SALES_AND_MARKETING",
+    "name": "Sales and Marketing"
+  },
+  {
+    "id": "SAME_DAY_DELIVERY",
+    "name": "Same Day Delivery"
+  },
+  {
+    "id": "SATELLITE_COMMUNICATION",
+    "name": "Satellite Communication"
+  },
+  {
+    "id": "SCHEDULING",
+    "name": "Scheduling"
+  },
+  {
+    "id": "SCIENCE_AND_ENGINEERING",
+    "name": "Science and Engineering"
+  },
+  {
+    "id": "SEARCH_ENGINE",
+    "name": "Search Engine"
+  },
+  {
+    "id": "SEARCH_ENGINE_MARKETING",
+    "name": "Search Engine Marketing"
+  },
+  {
+    "id": "SECONDARY_EDUCATION",
+    "name": "Secondary Education"
+  },
+  {
+    "id": "SECURITY",
+    "name": "Security"
+  },
+  {
+    "id": "SELF_STORAGE",
+    "name": "Self-Storage"
+  },
+  {
+    "id": "SEMANTIC_SEARCH",
+    "name": "Semantic Search"
+  },
+  {
+    "id": "SEMANTIC_WEB",
+    "name": "Semantic Web"
+  },
+  {
+    "id": "SEMICONDUCTOR",
+    "name": "Semiconductor"
+  },
+  {
+    "id": "SENSOR",
+    "name": "Sensor"
+  },
+  {
+    "id": "SHIPPING",
+    "name": "Shipping"
+  },
+  {
+    "id": "SHIPPING_BROKER",
+    "name": "Shipping Broker"
+  },
+  {
+    "id": "SHOPPING",
+    "name": "Shopping"
+  },
+  {
+    "id": "SHOPPING_MALL",
+    "name": "Shopping Mall"
+  },
+  {
+    "id": "SIMULATION",
+    "name": "Simulation"
+  },
+  {
+    "id": "SKILL_ASSESSMENT",
+    "name": "Skill Assessment"
+  },
+  {
+    "id": "SMALL_AND_MEDIUM_BUSINESSES",
+    "name": "Small and Medium Businesses"
+  },
+  {
+    "id": "SMART_BUILDING",
+    "name": "Smart Building"
+  },
+  {
+    "id": "SMART_CITIES",
+    "name": "Smart Cities"
+  },
+  {
+    "id": "SMART_HOME",
+    "name": "Smart Home"
+  },
+  {
+    "id": "SOCIAL",
+    "name": "Social"
+  },
+  {
+    "id": "SOCIAL_ASSISTANCE",
+    "name": "Social Assistance"
+  },
+  {
+    "id": "SOCIAL_CRM",
+    "name": "Social CRM"
+  },
+  {
+    "id": "SOCIAL_ENTREPRENEURSHIP",
+    "name": "Social Entrepreneurship"
+  },
+  {
+    "id": "SOCIAL_IMPACT",
+    "name": "Social Impact"
+  },
+  {
+    "id": "SOCIAL_MEDIA",
+    "name": "Social Media"
+  },
+  {
+    "id": "SOCIAL_MEDIA_ADVERTISING",
+    "name": "Social Media Advertising"
+  },
+  {
+    "id": "SOCIAL_MEDIA_MANAGEMENT",
+    "name": "Social Media Management"
+  },
+  {
+    "id": "SOCIAL_MEDIA_MARKETING",
+    "name": "Social Media Marketing"
+  },
+  {
+    "id": "SOCIAL_NETWORK",
+    "name": "Social Network"
+  },
+  {
+    "id": "SOCIAL_NEWS",
+    "name": "Social News"
+  },
+  {
+    "id": "SOCIAL_RECRUITING",
+    "name": "Social Recruiting"
+  },
+  {
+    "id": "SOCIAL_SHOPPING",
+    "name": "Social Shopping"
+  },
+  {
+    "id": "SOFTWARE",
+    "name": "Software"
+  },
+  {
+    "id": "SOFTWARE_ENGINEERING",
+    "name": "Software Engineering"
+  },
+  {
+    "id": "SOLAR",
+    "name": "Solar"
+  },
+  {
+    "id": "SPACE_TRAVEL",
+    "name": "Space Travel"
+  },
+  {
+    "id": "SPAM_FILTERING",
+    "name": "Spam Filtering"
+  },
+  {
+    "id": "SPEECH_RECOGNITION",
+    "name": "Speech Recognition"
+  },
+  {
+    "id": "SPONSORSHIP",
+    "name": "Sponsorship"
+  },
+  {
+    "id": "SPORTING_GOODS",
+    "name": "Sporting Goods"
+  },
+  {
+    "id": "SPORTS",
+    "name": "Sports"
+  },
+  {
+    "id": "STAFFING_AGENCY",
+    "name": "Staffing Agency"
+  },
+  {
+    "id": "STOCK_EXCHANGES",
+    "name": "Stock Exchanges"
+  },
+  {
+    "id": "SUBSCRIPTION_SERVICE",
+    "name": "Subscription Service"
+  },
+  {
+    "id": "SUPPLY_CHAIN_MANAGEMENT",
+    "name": "Supply Chain Management"
+  },
+  {
+    "id": "TV_PRODUCTION",
+    "name": "TV Production"
+  },
+  {
+    "id": "TASK_MANAGEMENT",
+    "name": "Task Management"
+  },
+  {
+    "id": "TAXI_SERVICE",
+    "name": "Taxi Service"
+  },
+  {
+    "id": "TECHNICAL_SUPPORT",
+    "name": "Technical Support"
+  },
+  {
+    "id": "TELECOMMUNICATIONS",
+    "name": "Telecommunications"
+  },
+  {
+    "id": "TEST_AND_MEASUREMENT",
+    "name": "Test and Measurement"
+  },
+  {
+    "id": "TEXT_ANALYTICS",
+    "name": "Text Analytics"
+  },
+  {
+    "id": "TEXTBOOK",
+    "name": "Textbook"
+  },
+  {
+    "id": "TEXTILES",
+    "name": "Textiles"
+  },
+  {
+    "id": "THEATRE",
+    "name": "Theatre"
+  },
+  {
+    "id": "THERAPEUTICS",
+    "name": "Therapeutics"
+  },
+  {
+    "id": "TICKETING",
+    "name": "Ticketing"
+  },
+  {
+    "id": "TOBACCO",
+    "name": "Tobacco"
+  },
+  {
+    "id": "TOYS",
+    "name": "Toys"
+  },
+  {
+    "id": "TRADE_SHOWS",
+    "name": "Trade Shows"
+  },
+  {
+    "id": "TRADING_PLATFORM",
+    "name": "Trading Platform"
+  },
+  {
+    "id": "TRAINING",
+    "name": "Training"
+  },
+  {
+    "id": "TRANSACTION_PROCESSING",
+    "name": "Transaction Processing"
+  },
+  {
+    "id": "TRANSLATION_SERVICE",
+    "name": "Translation Service"
+  },
+  {
+    "id": "TRANSPORTATION",
+    "name": "Transportation"
+  },
+  {
+    "id": "TRAVEL_ACCOMMODATIONS",
+    "name": "Travel Accommodations"
+  },
+  {
+    "id": "TRAVEL_AGENCY",
+    "name": "Travel Agency"
+  },
+  {
+    "id": "TRAVEL_AND_TOURISM",
+    "name": "Travel and Tourism"
+  },
+  {
+    "id": "TUTORING",
+    "name": "Tutoring"
+  },
+  {
+    "id": "UX_DESIGN",
+    "name": "UX Design"
+  },
+  {
+    "id": "UNIFIED_COMMUNICATIONS",
+    "name": "Unified Communications"
+  },
+  {
+    "id": "USABILITY_TESTING",
+    "name": "Usability Testing"
+  },
+  {
+    "id": "VACATION_RENTAL",
+    "name": "Vacation Rental"
+  },
+  {
+    "id": "VENDING_AND_CONCESSIONS",
+    "name": "Vending and Concessions"
+  },
+  {
+    "id": "VENTURE_CAPITAL",
+    "name": "Venture Capital"
+  },
+  {
+    "id": "VERTICAL_SEARCH",
+    "name": "Vertical Search"
+  },
+  {
+    "id": "VETERINARY",
+    "name": "Veterinary"
+  },
+  {
+    "id": "VIDEO_ADVERTISING",
+    "name": "Video Advertising"
+  },
+  {
+    "id": "VIDEO_CHAT",
+    "name": "Video Chat"
+  },
+  {
+    "id": "VIDEO_CONFERENCING",
+    "name": "Video Conferencing"
+  },
+  {
+    "id": "VIDEO_EDITING",
+    "name": "Video Editing"
+  },
+  {
+    "id": "VIDEO_STREAMING",
+    "name": "Video Streaming"
+  },
+  {
+    "id": "VIDEO_ON_DEMAND",
+    "name": "Video on Demand"
+  },
+  {
+    "id": "VIRTUAL_ASSISTANT",
+    "name": "Virtual Assistant"
+  },
+  {
+    "id": "VIRTUAL_CURRENCY",
+    "name": "Virtual Currency"
+  },
+  {
+    "id": "VIRTUAL_DESKTOP",
+    "name": "Virtual Desktop"
+  },
+  {
+    "id": "VIRTUAL_GOODS",
+    "name": "Virtual Goods"
+  },
+  {
+    "id": "VIRTUAL_REALITY",
+    "name": "Virtual Reality"
+  },
+  {
+    "id": "VIRTUAL_WORKFORCE",
+    "name": "Virtual Workforce"
+  },
+  {
+    "id": "VIRTUAL_WORLD",
+    "name": "Virtual World"
+  },
+  {
+    "id": "VIRTUALIZATION",
+    "name": "Virtualization"
+  },
+  {
+    "id": "VISUAL_SEARCH",
+    "name": "Visual Search"
+  },
+  {
+    "id": "VOIP",
+    "name": "VoIP"
+  },
+  {
+    "id": "VOCATIONAL_EDUCATION",
+    "name": "Vocational Education"
+  },
+  {
+    "id": "WAREHOUSING",
+    "name": "Warehousing"
+  },
+  {
+    "id": "WASTE_MANAGEMENT",
+    "name": "Waste Management"
+  },
+  {
+    "id": "WATER_PURIFICATION",
+    "name": "Water Purification"
+  },
+  {
+    "id": "WATER_TRANSPORTATION",
+    "name": "Water Transportation"
+  },
+  {
+    "id": "WEALTH_MANAGEMENT",
+    "name": "Wealth Management"
+  },
+  {
+    "id": "WEARABLES",
+    "name": "Wearables"
+  },
+  {
+    "id": "WEB_APPS",
+    "name": "Web Apps"
+  },
+  {
+    "id": "WEB_BROWSERS",
+    "name": "Web Browsers"
+  },
+  {
+    "id": "WEB_DESIGN",
+    "name": "Web Design"
+  },
+  {
+    "id": "WEB_DEVELOPMENT",
+    "name": "Web Development"
+  },
+  {
+    "id": "WEB_HOSTING",
+    "name": "Web Hosting"
+  },
+  {
+    "id": "WELLNESS",
+    "name": "Wellness"
+  },
+  {
+    "id": "WHOLESALE",
+    "name": "Wholesale"
+  },
+  {
+    "id": "WIND_ENERGY",
+    "name": "Wind Energy"
+  },
+  {
+    "id": "WIRED_TELECOMMUNICATIONS",
+    "name": "Wired Telecommunications"
+  },
+  {
+    "id": "WIRELESS",
+    "name": "Wireless"
+  },
+  {
+    "id": "WOOD_PROCESSING",
+    "name": "Wood Processing"
+  },
+  {
+    "id": "ESPORTS",
+    "name": "eSports"
+  }
+]

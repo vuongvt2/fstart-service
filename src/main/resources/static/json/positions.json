@@ -1,0 +1,119 @@
+[
+  {
+    "id": "PO",
+    "name": "Project Owner"
+  },
+  {
+    "id": "BE",
+    "name": "Backend Developer"
+  },
+  {
+    "id": "FE",
+    "name": "Frontend Developer"
+  },
+  {
+    "id": "TE",
+    "name": "Tester"
+  },
+  {
+    "id": "BA",
+    "name": "Business Analyst"
+  },
+  {
+    "id": "DS",
+    "name": "Data Scientist"
+  },
+  {
+    "id": "AC",
+    "name": "Agile Coach"
+  },
+  {
+    "id": "SM",
+    "name": "Scrum Master"
+  },
+  {
+    "id": "NA",
+    "name": "Network Administrator"
+  },
+  {
+    "id": "NE",
+    "name": "Network Engineering"
+  },
+  {
+    "id": "DB",
+    "name": "Database Developer"
+  },
+  {
+    "id": "DA",
+    "name": "Database Administrator"
+  },
+  {
+    "id": "IM",
+    "name": "IT Manager"
+  },
+  {
+    "id": "DB",
+    "name": "Database Developer"
+  },
+  {
+    "id": "QC",
+    "name": "Quality Control"
+  },
+  {
+    "id": "QA",
+    "name": "Quality Assurance"
+  },
+  {
+    "id": "SALE",
+    "name": "Sales"
+  },
+  {
+    "id": "MB",
+    "name": "Media Buyer"
+  },
+  {
+    "id": "CW",
+    "name": "Content writer"
+  },
+  {
+    "id": "AP",
+    "name": "Account Planner"
+  },
+  {
+    "id": "SMM",
+    "name": "Social Media Manager"
+  },
+  {
+    "id": "DM",
+    "name": "Digital Marketing"
+  },
+  {
+    "id": "MA",
+    "name": "Marketing analyst"
+  },
+  {
+    "id": "MC",
+    "name": "Marketing Consultant"
+  },
+  {
+    "id": "MM",
+    "name": "Marketing Manager"
+  },
+  {
+    "id": "CD",
+    "name": "Content Director"
+  },
+  {
+    "id": "SMS",
+    "name": "Social Media Strategist"
+  },
+  {
+    "id": "SME",
+    "name": "Social Media Editor"
+  }
+,
+  {
+    "id": "PM",
+    "name": "Project Manager"
+  }
+]

@@ -1,0 +1,2822 @@
+[
+  {
+    "id": "@FORMULA",
+    "name": "@Formula"
+  },
+  {
+    "id": "A# (AXIOM)",
+    "name": "A# (Axiom)"
+  },
+  {
+    "id": "A# .NET",
+    "name": "A# .NET"
+  },
+  {
+    "id": "A+",
+    "name": "A+"
+  },
+  {
+    "id": "A++",
+    "name": "A++"
+  },
+  {
+    "id": "A-0 SYSTEM",
+    "name": "A-0 System"
+  },
+  {
+    "id": "ABAP",
+    "name": "ABAP"
+  },
+  {
+    "id": "ABC",
+    "name": "ABC"
+  },
+  {
+    "id": "ABC ALGOL",
+    "name": "ABC ALGOL"
+  },
+  {
+    "id": "ABLE",
+    "name": "ABLE"
+  },
+  {
+    "id": "ABSET",
+    "name": "ABSET"
+  },
+  {
+    "id": "ABSYS",
+    "name": "ABSYS"
+  },
+  {
+    "id": "ACC",
+    "name": "ACC"
+  },
+  {
+    "id": "ACL2",
+    "name": "ACL2"
+  },
+  {
+    "id": "ACT-III",
+    "name": "ACT-III"
+  },
+  {
+    "id": "AIMMS",
+    "name": "AIMMS"
+  },
+  {
+    "id": "ALF",
+    "name": "ALF"
+  },
+  {
+    "id": "ALGOL 58",
+    "name": "ALGOL 58"
+  },
+  {
+    "id": "ALGOL 60",
+    "name": "ALGOL 60"
+  },
+  {
+    "id": "ALGOL 68",
+    "name": "ALGOL 68"
+  },
+  {
+    "id": "ALGOL W",
+    "name": "ALGOL W"
+  },
+  {
+    "id": "AMOS",
+    "name": "AMOS"
+  },
+  {
+    "id": "AMPL",
+    "name": "AMPL"
+  },
+  {
+    "id": "APL",
+    "name": "APL"
+  },
+  {
+    "id": "AREXX",
+    "name": "ARexx"
+  },
+  {
+    "id": "ATS",
+    "name": "ATS"
+  },
+  {
+    "id": "AWK",
+    "name": "AWK"
+  },
+  {
+    "id": "ACCENT",
+    "name": "Accent"
+  },
+  {
+    "id": "ACE DASL",
+    "name": "Ace DASL"
+  },
+  {
+    "id": "ACTION!",
+    "name": "Action!"
+  },
+  {
+    "id": "ACTIONSCRIPT",
+    "name": "ActionScript"
+  },
+  {
+    "id": "ADA",
+    "name": "Ada"
+  },
+  {
+    "id": "ADENINE",
+    "name": "Adenine"
+  },
+  {
+    "id": "AGDA",
+    "name": "Agda"
+  },
+  {
+    "id": "AGILENT VEE",
+    "name": "Agilent VEE"
+  },
+  {
+    "id": "AGORA",
+    "name": "Agora"
+  },
+  {
+    "id": "ALEF",
+    "name": "Alef"
+  },
+  {
+    "id": "ALICE",
+    "name": "Alice"
+  },
+  {
+    "id": "ALMA-0",
+    "name": "Alma-0"
+  },
+  {
+    "id": "AMBIENTTALK",
+    "name": "AmbientTalk"
+  },
+  {
+    "id": "AMIGA E",
+    "name": "Amiga E"
+  },
+  {
+    "id": "APP INVENTOR FOR ANDROID'S VISUAL BLOCK LANGUAGE",
+    "name": "App Inventor for Android's visual block language"
+  },
+  {
+    "id": "APPLESCRIPT",
+    "name": "AppleScript"
+  },
+  {
+    "id": "ARC",
+    "name": "Arc"
+  },
+  {
+    "id": "ARGUS",
+    "name": "Argus"
+  },
+  {
+    "id": "ASPECTJ",
+    "name": "AspectJ"
+  },
+  {
+    "id": "ASSEMBLY LANGUAGE",
+    "name": "Assembly language"
+  },
+  {
+    "id": "ATEJI PX",
+    "name": "Ateji PX"
+  },
+  {
+    "id": "AUTOHOTKEY",
+    "name": "AutoHotkey"
+  },
+  {
+    "id": "AUTOIT",
+    "name": "AutoIt"
+  },
+  {
+    "id": "AUTOLISP / VISUAL LISP",
+    "name": "AutoLISP / Visual LISP"
+  },
+  {
+    "id": "AUTOCODER",
+    "name": "Autocoder"
+  },
+  {
+    "id": "AVEREST",
+    "name": "Averest"
+  },
+  {
+    "id": "AXUM",
+    "name": "Axum"
+  },
+  {
+    "id": "B",
+    "name": "B"
+  },
+  {
+    "id": "BASIC",
+    "name": "BASIC"
+  },
+  {
+    "id": "BCPL",
+    "name": "BCPL"
+  },
+  {
+    "id": "BETA",
+    "name": "BETA"
+  },
+  {
+    "id": "BLISS",
+    "name": "BLISS"
+  },
+  {
+    "id": "BPEL",
+    "name": "BPEL"
+  },
+  {
+    "id": "BREW",
+    "name": "BREW"
+  },
+  {
+    "id": "BABBAGE",
+    "name": "Babbage"
+  },
+  {
+    "id": "BASH",
+    "name": "Bash"
+  },
+  {
+    "id": "BATCH (WINDOWS/DOS)",
+    "name": "Batch (Windows/Dos)"
+  },
+  {
+    "id": "BEANSHELL",
+    "name": "BeanShell"
+  },
+  {
+    "id": "BERTRAND",
+    "name": "Bertrand"
+  },
+  {
+    "id": "BIGWIG",
+    "name": "Bigwig"
+  },
+  {
+    "id": "BISTRO",
+    "name": "Bistro"
+  },
+  {
+    "id": "BITC",
+    "name": "BitC"
+  },
+  {
+    "id": "BLUE",
+    "name": "Blue"
+  },
+  {
+    "id": "BON",
+    "name": "Bon"
+  },
+  {
+    "id": "BOO",
+    "name": "Boo"
+  },
+  {
+    "id": "BOOMERANG",
+    "name": "Boomerang"
+  },
+  {
+    "id": "BOURNE SHELL",
+    "name": "Bourne shell"
+  },
+  {
+    "id": "C",
+    "name": "C"
+  },
+  {
+    "id": "C SHELL",
+    "name": "C Shell"
+  },
+  {
+    "id": "C#",
+    "name": "C#"
+  },
+  {
+    "id": "C++",
+    "name": "C++"
+  },
+  {
+    "id": "C--",
+    "name": "C--"
+  },
+  {
+    "id": "C/AL",
+    "name": "C/AL"
+  },
+  {
+    "id": "CDUCE",
+    "name": "CDuce"
+  },
+  {
+    "id": "CFENGINE",
+    "name": "CFEngine"
+  },
+  {
+    "id": "CFML",
+    "name": "CFML"
+  },
+  {
+    "id": "CHAIN",
+    "name": "CHAIN"
+  },
+  {
+    "id": "CHILL",
+    "name": "CHILL"
+  },
+  {
+    "id": "CHIP-8",
+    "name": "CHIP-8"
+  },
+  {
+    "id": "CICS",
+    "name": "CICS"
+  },
+  {
+    "id": "CIL",
+    "name": "CIL"
+  },
+  {
+    "id": "CL",
+    "name": "CL"
+  },
+  {
+    "id": "CLIST",
+    "name": "CLIST"
+  },
+  {
+    "id": "CLU",
+    "name": "CLU"
+  },
+  {
+    "id": "CMS EXEC",
+    "name": "CMS EXEC"
+  },
+  {
+    "id": "CMS-2",
+    "name": "CMS-2"
+  },
+  {
+    "id": "COBOL",
+    "name": "COBOL"
+  },
+  {
+    "id": "CODE",
+    "name": "CODE"
+  },
+  {
+    "id": "COMAL",
+    "name": "COMAL"
+  },
+  {
+    "id": "COMIT",
+    "name": "COMIT"
+  },
+  {
+    "id": "COMPASS",
+    "name": "COMPASS"
+  },
+  {
+    "id": "COWSEL",
+    "name": "COWSEL"
+  },
+  {
+    "id": "CPL",
+    "name": "CPL"
+  },
+  {
+    "id": "CSP",
+    "name": "CSP"
+  },
+  {
+    "id": "CUDA",
+    "name": "CUDA"
+  },
+  {
+    "id": "CACH̩ OBJECTSCRIPT",
+    "name": "Cach̩ ObjectScript"
+  },
+  {
+    "id": "CAML",
+    "name": "Caml"
+  },
+  {
+    "id": "CANDLE",
+    "name": "Candle"
+  },
+  {
+    "id": "CAYENNE",
+    "name": "Cayenne"
+  },
+  {
+    "id": "CECIL",
+    "name": "Cecil"
+  },
+  {
+    "id": "CEL",
+    "name": "Cel"
+  },
+  {
+    "id": "CESIL",
+    "name": "Cesil"
+  },
+  {
+    "id": "CEYLON",
+    "name": "Ceylon"
+  },
+  {
+    "id": "CG",
+    "name": "Cg"
+  },
+  {
+    "id": "CH",
+    "name": "Ch"
+  },
+  {
+    "id": "CHAPEL",
+    "name": "Chapel"
+  },
+  {
+    "id": "CHARITY",
+    "name": "Charity"
+  },
+  {
+    "id": "CHARM",
+    "name": "Charm"
+  },
+  {
+    "id": "CHEF",
+    "name": "Chef"
+  },
+  {
+    "id": "CHUCK",
+    "name": "ChucK"
+  },
+  {
+    "id": "CILK",
+    "name": "Cilk"
+  },
+  {
+    "id": "CLAIRE",
+    "name": "Claire"
+  },
+  {
+    "id": "CLARION",
+    "name": "Clarion"
+  },
+  {
+    "id": "CLEAN",
+    "name": "Clean"
+  },
+  {
+    "id": "CLIPPER",
+    "name": "Clipper"
+  },
+  {
+    "id": "CLOJURE",
+    "name": "Clojure"
+  },
+  {
+    "id": "COBRA",
+    "name": "Cobra"
+  },
+  {
+    "id": "COFFEESCRIPT",
+    "name": "CoffeeScript"
+  },
+  {
+    "id": "COLA",
+    "name": "Cola"
+  },
+  {
+    "id": "COLDC",
+    "name": "ColdC"
+  },
+  {
+    "id": "COLDFUSION",
+    "name": "ColdFusion"
+  },
+  {
+    "id": "COMBINED PROGRAMMING LANGUAGE",
+    "name": "Combined Programming Language"
+  },
+  {
+    "id": "COMMON INTERMEDIATE LANGUAGE",
+    "name": "Common Intermediate Language"
+  },
+  {
+    "id": "COMMON LISP",
+    "name": "Common Lisp"
+  },
+  {
+    "id": "COMPONENT PASCAL",
+    "name": "Component Pascal"
+  },
+  {
+    "id": "CONSTRAINT HANDLING RULES",
+    "name": "Constraint Handling Rules"
+  },
+  {
+    "id": "CONVERGE",
+    "name": "Converge"
+  },
+  {
+    "id": "COOL",
+    "name": "Cool"
+  },
+  {
+    "id": "COQ",
+    "name": "Coq"
+  },
+  {
+    "id": "CORVISION",
+    "name": "CorVision"
+  },
+  {
+    "id": "CORAL 66",
+    "name": "Coral 66"
+  },
+  {
+    "id": "CORN",
+    "name": "Corn"
+  },
+  {
+    "id": "CSOUND",
+    "name": "Csound"
+  },
+  {
+    "id": "CURL",
+    "name": "Curl"
+  },
+  {
+    "id": "CURRY",
+    "name": "Curry"
+  },
+  {
+    "id": "CYCLONE",
+    "name": "Cyclone"
+  },
+  {
+    "id": "CYTHON",
+    "name": "Cython"
+  },
+  {
+    "id": "D",
+    "name": "D"
+  },
+  {
+    "id": "DASL",
+    "name": "DASL"
+  },
+  {
+    "id": "DASL",
+    "name": "DASL"
+  },
+  {
+    "id": "DATATRIEVE",
+    "name": "DATATRIEVE"
+  },
+  {
+    "id": "DCL",
+    "name": "DCL"
+  },
+  {
+    "id": "DCL",
+    "name": "DCL"
+  },
+  {
+    "id": "DIBOL",
+    "name": "DIBOL"
+  },
+  {
+    "id": "DRAKON",
+    "name": "DRAKON"
+  },
+  {
+    "id": "DYNAMO",
+    "name": "DYNAMO"
+  },
+  {
+    "id": "DART",
+    "name": "Dart"
+  },
+  {
+    "id": "DATAFLEX",
+    "name": "DataFlex"
+  },
+  {
+    "id": "DATALOG",
+    "name": "Datalog"
+  },
+  {
+    "id": "DEESEL",
+    "name": "Deesel"
+  },
+  {
+    "id": "DELPHI",
+    "name": "Delphi"
+  },
+  {
+    "id": "DINKC",
+    "name": "DinkC"
+  },
+  {
+    "id": "DOG",
+    "name": "Dog"
+  },
+  {
+    "id": "DRACO",
+    "name": "Draco"
+  },
+  {
+    "id": "DYLAN",
+    "name": "Dylan"
+  },
+  {
+    "id": "E",
+    "name": "E"
+  },
+  {
+    "id": "E#",
+    "name": "E#"
+  },
+  {
+    "id": "EASYTRIEVE PLUS",
+    "name": "EASYTRIEVE PLUS"
+  },
+  {
+    "id": "ECMASCRIPT",
+    "name": "ECMAScript"
+  },
+  {
+    "id": "EGL",
+    "name": "EGL"
+  },
+  {
+    "id": "ELAN",
+    "name": "ELAN"
+  },
+  {
+    "id": "EPL",
+    "name": "EPL"
+  },
+  {
+    "id": "ESPOL",
+    "name": "ESPOL"
+  },
+  {
+    "id": "EXEC 2",
+    "name": "EXEC 2"
+  },
+  {
+    "id": "EASE",
+    "name": "Ease"
+  },
+  {
+    "id": "EASY PL/I",
+    "name": "Easy PL/I"
+  },
+  {
+    "id": "EASY PROGRAMMING LANGUAGE",
+    "name": "Easy Programming Language"
+  },
+  {
+    "id": "EDINBURGH IMP",
+    "name": "Edinburgh IMP"
+  },
+  {
+    "id": "EIFFEL",
+    "name": "Eiffel"
+  },
+  {
+    "id": "ELIXIR",
+    "name": "Elixir"
+  },
+  {
+    "id": "ELM",
+    "name": "Elm"
+  },
+  {
+    "id": "EMACS LISP",
+    "name": "Emacs Lisp"
+  },
+  {
+    "id": "EMERALD",
+    "name": "Emerald"
+  },
+  {
+    "id": "EPIGRAM",
+    "name": "Epigram"
+  },
+  {
+    "id": "ERLANG",
+    "name": "Erlang"
+  },
+  {
+    "id": "ESCAPADE",
+    "name": "Escapade"
+  },
+  {
+    "id": "ESCHER",
+    "name": "Escher"
+  },
+  {
+    "id": "ESTEREL",
+    "name": "Esterel"
+  },
+  {
+    "id": "ETOYS",
+    "name": "Etoys"
+  },
+  {
+    "id": "EUCLID",
+    "name": "Euclid"
+  },
+  {
+    "id": "EULER",
+    "name": "Euler"
+  },
+  {
+    "id": "EUPHORIA",
+    "name": "Euphoria"
+  },
+  {
+    "id": "EUSLISP ROBOT PROGRAMMING LANGUAGE",
+    "name": "EusLisp Robot Programming Language"
+  },
+  {
+    "id": "EXECUTABLE UML",
+    "name": "Executable UML"
+  },
+  {
+    "id": "F",
+    "name": "F"
+  },
+  {
+    "id": "F#",
+    "name": "F#"
+  },
+  {
+    "id": "F-SCRIPT",
+    "name": "F-Script"
+  },
+  {
+    "id": "FAUST",
+    "name": "FAUST"
+  },
+  {
+    "id": "FFP",
+    "name": "FFP"
+  },
+  {
+    "id": "FL",
+    "name": "FL"
+  },
+  {
+    "id": "FLOW-MATIC",
+    "name": "FLOW-MATIC"
+  },
+  {
+    "id": "FOCAL",
+    "name": "FOCAL"
+  },
+  {
+    "id": "FOCUS",
+    "name": "FOCUS"
+  },
+  {
+    "id": "FOIL",
+    "name": "FOIL"
+  },
+  {
+    "id": "FORMAC",
+    "name": "FORMAC"
+  },
+  {
+    "id": "FP",
+    "name": "FP"
+  },
+  {
+    "id": "FPR",
+    "name": "FPr"
+  },
+  {
+    "id": "FSPROG",
+    "name": "FSProg"
+  },
+  {
+    "id": "FACTOR",
+    "name": "Factor"
+  },
+  {
+    "id": "FALCON",
+    "name": "Falcon"
+  },
+  {
+    "id": "FANCY",
+    "name": "Fancy"
+  },
+  {
+    "id": "FANTOM",
+    "name": "Fantom"
+  },
+  {
+    "id": "FELIX",
+    "name": "Felix"
+  },
+  {
+    "id": "FERITE",
+    "name": "Ferite"
+  },
+  {
+    "id": "FJ̦LNIR",
+    "name": "Fj̦lnir"
+  },
+  {
+    "id": "FLAVORS",
+    "name": "Flavors"
+  },
+  {
+    "id": "FLEX",
+    "name": "Flex"
+  },
+  {
+    "id": "FORTH",
+    "name": "Forth"
+  },
+  {
+    "id": "FORTRAN",
+    "name": "Fortran"
+  },
+  {
+    "id": "FORTRESS",
+    "name": "Fortress"
+  },
+  {
+    "id": "FOXBASE",
+    "name": "FoxBase"
+  },
+  {
+    "id": "FOXPRO",
+    "name": "FoxPro"
+  },
+  {
+    "id": "FRANZ LISP",
+    "name": "Franz Lisp"
+  },
+  {
+    "id": "G",
+    "name": "G"
+  },
+  {
+    "id": "G-CODE",
+    "name": "G-code"
+  },
+  {
+    "id": "GAMS",
+    "name": "GAMS"
+  },
+  {
+    "id": "GAP",
+    "name": "GAP"
+  },
+  {
+    "id": "GDL",
+    "name": "GDL"
+  },
+  {
+    "id": "GEORGE",
+    "name": "GEORGE"
+  },
+  {
+    "id": "GJ",
+    "name": "GJ"
+  },
+  {
+    "id": "GLSL",
+    "name": "GLSL"
+  },
+  {
+    "id": "GM",
+    "name": "GM"
+  },
+  {
+    "id": "GNU E",
+    "name": "GNU E"
+  },
+  {
+    "id": "GOAL",
+    "name": "GOAL"
+  },
+  {
+    "id": "GOM (GOOD OLD MAD)",
+    "name": "GOM (Good Old Mad)"
+  },
+  {
+    "id": "GOTRAN",
+    "name": "GOTRAN"
+  },
+  {
+    "id": "GPSS",
+    "name": "GPSS"
+  },
+  {
+    "id": "GRASS",
+    "name": "GRASS"
+  },
+  {
+    "id": "GAME MAKER LANGUAGE",
+    "name": "Game Maker Language"
+  },
+  {
+    "id": "GAMEMONKEY SCRIPT",
+    "name": "GameMonkey Script"
+  },
+  {
+    "id": "GENIE",
+    "name": "Genie"
+  },
+  {
+    "id": "GIBIANE",
+    "name": "Gibiane"
+  },
+  {
+    "id": "GO",
+    "name": "Go"
+  },
+  {
+    "id": "GO!",
+    "name": "Go!"
+  },
+  {
+    "id": "GODIVA",
+    "name": "Godiva"
+  },
+  {
+    "id": "GOO",
+    "name": "Goo"
+  },
+  {
+    "id": "GOOGLE APPS SCRIPT",
+    "name": "Google Apps Script"
+  },
+  {
+    "id": "GOSU",
+    "name": "Gosu"
+  },
+  {
+    "id": "GRAPHTALK",
+    "name": "GraphTalk"
+  },
+  {
+    "id": "GROOVY",
+    "name": "Groovy"
+  },
+  {
+    "id": "G̦DEL",
+    "name": "G̦del"
+  },
+  {
+    "id": "HAL/S",
+    "name": "HAL/S"
+  },
+  {
+    "id": "HLSL",
+    "name": "HLSL"
+  },
+  {
+    "id": "HACK (PROGRAMMING LANGUAGE)",
+    "name": "Hack (programming language)"
+  },
+  {
+    "id": "HAMILTON C SHELL",
+    "name": "Hamilton C shell"
+  },
+  {
+    "id": "HARBOUR",
+    "name": "Harbour"
+  },
+  {
+    "id": "HARTMANN PIPELINES",
+    "name": "Hartmann pipelines"
+  },
+  {
+    "id": "HASKELL",
+    "name": "Haskell"
+  },
+  {
+    "id": "HAXE",
+    "name": "Haxe"
+  },
+  {
+    "id": "HIGH LEVEL ASSEMBLY",
+    "name": "High Level Assembly"
+  },
+  {
+    "id": "HOP",
+    "name": "Hop"
+  },
+  {
+    "id": "HOPE",
+    "name": "Hope"
+  },
+  {
+    "id": "HUGO",
+    "name": "Hugo"
+  },
+  {
+    "id": "HUME",
+    "name": "Hume"
+  },
+  {
+    "id": "HYPERTALK",
+    "name": "HyperTalk"
+  },
+  {
+    "id": "IBM BASIC ASSEMBLY LANGUAGE",
+    "name": "IBM Basic assembly language"
+  },
+  {
+    "id": "IBM HASCRIPT",
+    "name": "IBM HAScript"
+  },
+  {
+    "id": "IBM INFORMIX-4GL",
+    "name": "IBM Informix-4GL"
+  },
+  {
+    "id": "IBM RPG",
+    "name": "IBM RPG"
+  },
+  {
+    "id": "ICI",
+    "name": "ICI"
+  },
+  {
+    "id": "IDL",
+    "name": "IDL"
+  },
+  {
+    "id": "IMP",
+    "name": "IMP"
+  },
+  {
+    "id": "IPL",
+    "name": "IPL"
+  },
+  {
+    "id": "IPTSCRAE",
+    "name": "IPTSCRAE"
+  },
+  {
+    "id": "ISLISP",
+    "name": "ISLISP"
+  },
+  {
+    "id": "ISPF",
+    "name": "ISPF"
+  },
+  {
+    "id": "ISWIM",
+    "name": "ISWIM"
+  },
+  {
+    "id": "ICON",
+    "name": "Icon"
+  },
+  {
+    "id": "ID",
+    "name": "Id"
+  },
+  {
+    "id": "IDRIS",
+    "name": "Idris"
+  },
+  {
+    "id": "INFORM",
+    "name": "Inform"
+  },
+  {
+    "id": "IO",
+    "name": "Io"
+  },
+  {
+    "id": "IOKE",
+    "name": "Ioke"
+  },
+  {
+    "id": "J",
+    "name": "J"
+  },
+  {
+    "id": "J#",
+    "name": "J#"
+  },
+  {
+    "id": "J++",
+    "name": "J++"
+  },
+  {
+    "id": "JADE",
+    "name": "JADE"
+  },
+  {
+    "id": "JAL",
+    "name": "JAL"
+  },
+  {
+    "id": "JASS",
+    "name": "JASS"
+  },
+  {
+    "id": "JCL",
+    "name": "JCL"
+  },
+  {
+    "id": "JEAN",
+    "name": "JEAN"
+  },
+  {
+    "id": "JOSS",
+    "name": "JOSS"
+  },
+  {
+    "id": "JOVIAL",
+    "name": "JOVIAL"
+  },
+  {
+    "id": "JSCRIPT",
+    "name": "JScript"
+  },
+  {
+    "id": "JSCRIPT .NET",
+    "name": "JScript .NET"
+  },
+  {
+    "id": "JAKO",
+    "name": "Jako"
+  },
+  {
+    "id": "JANUS",
+    "name": "Janus"
+  },
+  {
+    "id": "JAVA",
+    "name": "Java"
+  },
+  {
+    "id": "JAVAFX SCRIPT",
+    "name": "JavaFX Script"
+  },
+  {
+    "id": "JAVASCRIPT",
+    "name": "JavaScript"
+  },
+  {
+    "id": "JOIN JAVA",
+    "name": "Join Java"
+  },
+  {
+    "id": "JOULE",
+    "name": "Joule"
+  },
+  {
+    "id": "JOY",
+    "name": "Joy"
+  },
+  {
+    "id": "JULIA",
+    "name": "Julia"
+  },
+  {
+    "id": "JYTHON",
+    "name": "Jython"
+  },
+  {
+    "id": "K",
+    "name": "K"
+  },
+  {
+    "id": "KEE",
+    "name": "KEE"
+  },
+  {
+    "id": "KIF",
+    "name": "KIF"
+  },
+  {
+    "id": "KRC",
+    "name": "KRC"
+  },
+  {
+    "id": "KRL",
+    "name": "KRL"
+  },
+  {
+    "id": "KRYPTON",
+    "name": "KRYPTON"
+  },
+  {
+    "id": "KUKA",
+    "name": "KUKA"
+  },
+  {
+    "id": "KALEIDOSCOPE",
+    "name": "Kaleidoscope"
+  },
+  {
+    "id": "KAREL",
+    "name": "Karel"
+  },
+  {
+    "id": "KAREL++",
+    "name": "Karel++"
+  },
+  {
+    "id": "KIXTART",
+    "name": "Kixtart"
+  },
+  {
+    "id": "KOJO",
+    "name": "Kojo"
+  },
+  {
+    "id": "KOTLIN",
+    "name": "Kotlin"
+  },
+  {
+    "id": "L",
+    "name": "L"
+  },
+  {
+    "id": "L# .NET",
+    "name": "L# .NET"
+  },
+  {
+    "id": "LANSA",
+    "name": "LANSA"
+  },
+  {
+    "id": "LC-3",
+    "name": "LC-3"
+  },
+  {
+    "id": "LIL",
+    "name": "LIL"
+  },
+  {
+    "id": "LINC",
+    "name": "LINC"
+  },
+  {
+    "id": "LIS",
+    "name": "LIS"
+  },
+  {
+    "id": "LISA",
+    "name": "LISA"
+  },
+  {
+    "id": "LPC",
+    "name": "LPC"
+  },
+  {
+    "id": "LSE",
+    "name": "LSE"
+  },
+  {
+    "id": "LSL",
+    "name": "LSL"
+  },
+  {
+    "id": "LYAPAS",
+    "name": "LYaPAS"
+  },
+  {
+    "id": "LATEX",
+    "name": "LaTeX"
+  },
+  {
+    "id": "LABVIEW",
+    "name": "LabVIEW"
+  },
+  {
+    "id": "LADDER",
+    "name": "Ladder"
+  },
+  {
+    "id": "LAGOONA",
+    "name": "Lagoona"
+  },
+  {
+    "id": "LASSO",
+    "name": "Lasso"
+  },
+  {
+    "id": "LAVA",
+    "name": "Lava"
+  },
+  {
+    "id": "LEDA",
+    "name": "Leda"
+  },
+  {
+    "id": "LEGOSCRIPT",
+    "name": "Legoscript"
+  },
+  {
+    "id": "LILYPOND",
+    "name": "LilyPond"
+  },
+  {
+    "id": "LIMBO",
+    "name": "Limbo"
+  },
+  {
+    "id": "LIMNOR",
+    "name": "Limnor"
+  },
+  {
+    "id": "LINGO",
+    "name": "Lingo"
+  },
+  {
+    "id": "LINOLEUM",
+    "name": "Linoleum"
+  },
+  {
+    "id": "LISAAC",
+    "name": "Lisaac"
+  },
+  {
+    "id": "LISP",
+    "name": "Lisp"
+  },
+  {
+    "id": "LITE-C",
+    "name": "Lite-C"
+  },
+  {
+    "id": "LITHE",
+    "name": "Lithe"
+  },
+  {
+    "id": "LITTLE B",
+    "name": "Little b"
+  },
+  {
+    "id": "LIVECODE",
+    "name": "LiveCode"
+  },
+  {
+    "id": "LIVESCRIPT",
+    "name": "LiveScript"
+  },
+  {
+    "id": "LOGO",
+    "name": "Logo"
+  },
+  {
+    "id": "LOGTALK",
+    "name": "Logtalk"
+  },
+  {
+    "id": "LUA",
+    "name": "Lua"
+  },
+  {
+    "id": "LUCID",
+    "name": "Lucid"
+  },
+  {
+    "id": "LUSTRE",
+    "name": "Lustre"
+  },
+  {
+    "id": "LYNX",
+    "name": "Lynx"
+  },
+  {
+    "id": "M2001",
+    "name": "M2001"
+  },
+  {
+    "id": "M4",
+    "name": "M4"
+  },
+  {
+    "id": "MAD",
+    "name": "MAD"
+  },
+  {
+    "id": "MAD/I",
+    "name": "MAD/I"
+  },
+  {
+    "id": "MAPPER",
+    "name": "MAPPER"
+  },
+  {
+    "id": "MARK-IV",
+    "name": "MARK-IV"
+  },
+  {
+    "id": "MASM MICROSOFT ASSEMBLY X86",
+    "name": "MASM Microsoft Assembly x86"
+  },
+  {
+    "id": "MATLAB",
+    "name": "MATLAB"
+  },
+  {
+    "id": "MDL",
+    "name": "MDL"
+  },
+  {
+    "id": "MIIS",
+    "name": "MIIS"
+  },
+  {
+    "id": "MIMIC",
+    "name": "MIMIC"
+  },
+  {
+    "id": "MIVA SCRIPT",
+    "name": "MIVA Script"
+  },
+  {
+    "id": "ML",
+    "name": "ML"
+  },
+  {
+    "id": "MOO",
+    "name": "MOO"
+  },
+  {
+    "id": "MPD",
+    "name": "MPD"
+  },
+  {
+    "id": "MSL",
+    "name": "MSL"
+  },
+  {
+    "id": "MUMPS",
+    "name": "MUMPS"
+  },
+  {
+    "id": "MACHINE CODE",
+    "name": "Machine code"
+  },
+  {
+    "id": "MACSYMA",
+    "name": "Macsyma"
+  },
+  {
+    "id": "MAGIK",
+    "name": "Magik"
+  },
+  {
+    "id": "MAGMA",
+    "name": "Magma"
+  },
+  {
+    "id": "MAPLE",
+    "name": "Maple"
+  },
+  {
+    "id": "MARY",
+    "name": "Mary"
+  },
+  {
+    "id": "MATHEMATICA",
+    "name": "Mathematica"
+  },
+  {
+    "id": "MAX",
+    "name": "Max"
+  },
+  {
+    "id": "MAXSCRIPT",
+    "name": "MaxScript"
+  },
+  {
+    "id": "MAXIMA",
+    "name": "Maxima"
+  },
+  {
+    "id": "MAYA (MEL)",
+    "name": "Maya (MEL)"
+  },
+  {
+    "id": "MERCURY",
+    "name": "Mercury"
+  },
+  {
+    "id": "MESA",
+    "name": "Mesa"
+  },
+  {
+    "id": "METAL",
+    "name": "MetaL"
+  },
+  {
+    "id": "METACARD",
+    "name": "Metacard"
+  },
+  {
+    "id": "METAFONT",
+    "name": "Metafont"
+  },
+  {
+    "id": "MICROSCRIPT",
+    "name": "MicroScript"
+  },
+  {
+    "id": "MICROCODE",
+    "name": "Microcode"
+  },
+  {
+    "id": "MILLSCRIPT",
+    "name": "MillScript"
+  },
+  {
+    "id": "MIRAH",
+    "name": "Mirah"
+  },
+  {
+    "id": "MIRANDA",
+    "name": "Miranda"
+  },
+  {
+    "id": "MOBY",
+    "name": "Moby"
+  },
+  {
+    "id": "MODEL 204",
+    "name": "Model 204"
+  },
+  {
+    "id": "MODELICA",
+    "name": "Modelica"
+  },
+  {
+    "id": "MODULA",
+    "name": "Modula"
+  },
+  {
+    "id": "MODULA-2",
+    "name": "Modula-2"
+  },
+  {
+    "id": "MODULA-3",
+    "name": "Modula-3"
+  },
+  {
+    "id": "MOHOL",
+    "name": "Mohol"
+  },
+  {
+    "id": "MORTRAN",
+    "name": "Mortran"
+  },
+  {
+    "id": "MOUSE",
+    "name": "Mouse"
+  },
+  {
+    "id": "NASM",
+    "name": "NASM"
+  },
+  {
+    "id": "NATURAL",
+    "name": "NATURAL"
+  },
+  {
+    "id": "NESL",
+    "name": "NESL"
+  },
+  {
+    "id": "NEWP",
+    "name": "NEWP"
+  },
+  {
+    "id": "NGL",
+    "name": "NGL"
+  },
+  {
+    "id": "NPL",
+    "name": "NPL"
+  },
+  {
+    "id": "NSIS",
+    "name": "NSIS"
+  },
+  {
+    "id": "NWSCRIPT",
+    "name": "NWScript"
+  },
+  {
+    "id": "NXT-G",
+    "name": "NXT-G"
+  },
+  {
+    "id": "NAPIER88",
+    "name": "Napier88"
+  },
+  {
+    "id": "NEKO",
+    "name": "Neko"
+  },
+  {
+    "id": "NEMERLE",
+    "name": "Nemerle"
+  },
+  {
+    "id": "NET.DATA",
+    "name": "Net.Data"
+  },
+  {
+    "id": "NETLOGO",
+    "name": "NetLogo"
+  },
+  {
+    "id": "NETREXX",
+    "name": "NetRexx"
+  },
+  {
+    "id": "NEWLISP",
+    "name": "NewLISP"
+  },
+  {
+    "id": "NEWSPEAK",
+    "name": "Newspeak"
+  },
+  {
+    "id": "NEWTONSCRIPT",
+    "name": "NewtonScript"
+  },
+  {
+    "id": "NIAL",
+    "name": "Nial"
+  },
+  {
+    "id": "NICE",
+    "name": "Nice"
+  },
+  {
+    "id": "NICKLE",
+    "name": "Nickle"
+  },
+  {
+    "id": "NOT QUITE C",
+    "name": "Not Quite C"
+  },
+  {
+    "id": "NOT EXACTLY C",
+    "name": "Not eXactly C"
+  },
+  {
+    "id": "NU",
+    "name": "Nu"
+  },
+  {
+    "id": "OBJ2",
+    "name": "OBJ2"
+  },
+  {
+    "id": "OCAML",
+    "name": "OCaml"
+  },
+  {
+    "id": "OPL",
+    "name": "OPL"
+  },
+  {
+    "id": "OPS5",
+    "name": "OPS5"
+  },
+  {
+    "id": "ORCA/MODULA-2",
+    "name": "ORCA/Modula-2"
+  },
+  {
+    "id": "OAK",
+    "name": "Oak"
+  },
+  {
+    "id": "OBERON",
+    "name": "Oberon"
+  },
+  {
+    "id": "OBIX",
+    "name": "Obix"
+  },
+  {
+    "id": "OBJECT LISP",
+    "name": "Object Lisp"
+  },
+  {
+    "id": "OBJECT PASCAL",
+    "name": "Object Pascal"
+  },
+  {
+    "id": "OBJECT REXX",
+    "name": "Object REXX"
+  },
+  {
+    "id": "OBJECTLOGO",
+    "name": "ObjectLOGO"
+  },
+  {
+    "id": "OBJECTIVE-C",
+    "name": "Objective-C"
+  },
+  {
+    "id": "OBJECTIVE-J",
+    "name": "Objective-J"
+  },
+  {
+    "id": "OBLIQ",
+    "name": "Obliq"
+  },
+  {
+    "id": "OBOL",
+    "name": "Obol"
+  },
+  {
+    "id": "OCTAVE",
+    "name": "Octave"
+  },
+  {
+    "id": "OMNIMARK",
+    "name": "OmniMark"
+  },
+  {
+    "id": "ONYX",
+    "name": "Onyx"
+  },
+  {
+    "id": "OPA",
+    "name": "Opa"
+  },
+  {
+    "id": "OPAL",
+    "name": "Opal"
+  },
+  {
+    "id": "OPENCL",
+    "name": "OpenCL"
+  },
+  {
+    "id": "OPENEDGE ABL",
+    "name": "OpenEdge ABL"
+  },
+  {
+    "id": "OPTIMJ",
+    "name": "OptimJ"
+  },
+  {
+    "id": "ORC",
+    "name": "Orc"
+  },
+  {
+    "id": "ORIEL",
+    "name": "Oriel"
+  },
+  {
+    "id": "ORWELL",
+    "name": "Orwell"
+  },
+  {
+    "id": "OXYGENE",
+    "name": "Oxygene"
+  },
+  {
+    "id": "OZ",
+    "name": "Oz"
+  },
+  {
+    "id": "P#",
+    "name": "P#"
+  },
+  {
+    "id": "PARI/GP",
+    "name": "PARI/GP"
+  },
+  {
+    "id": "PCASTL",
+    "name": "PCASTL"
+  },
+  {
+    "id": "PCF",
+    "name": "PCF"
+  },
+  {
+    "id": "PDL",
+    "name": "PDL"
+  },
+  {
+    "id": "PEARL",
+    "name": "PEARL"
+  },
+  {
+    "id": "PHP",
+    "name": "PHP"
+  },
+  {
+    "id": "PIKT",
+    "name": "PIKT"
+  },
+  {
+    "id": "PILOT",
+    "name": "PILOT"
+  },
+  {
+    "id": "PL-11",
+    "name": "PL-11"
+  },
+  {
+    "id": "PL/0",
+    "name": "PL/0"
+  },
+  {
+    "id": "PL/B",
+    "name": "PL/B"
+  },
+  {
+    "id": "PL/C",
+    "name": "PL/C"
+  },
+  {
+    "id": "PL/I",
+    "name": "PL/I"
+  },
+  {
+    "id": "PL/M",
+    "name": "PL/M"
+  },
+  {
+    "id": "PL/P",
+    "name": "PL/P"
+  },
+  {
+    "id": "PL/SQL",
+    "name": "PL/SQL"
+  },
+  {
+    "id": "PL360",
+    "name": "PL360"
+  },
+  {
+    "id": "PLANC",
+    "name": "PLANC"
+  },
+  {
+    "id": "PLEX",
+    "name": "PLEX"
+  },
+  {
+    "id": "PLEXIL",
+    "name": "PLEXIL"
+  },
+  {
+    "id": "POP-11",
+    "name": "POP-11"
+  },
+  {
+    "id": "PPL",
+    "name": "PPL"
+  },
+  {
+    "id": "PROIV",
+    "name": "PROIV"
+  },
+  {
+    "id": "PROMAL",
+    "name": "PROMAL"
+  },
+  {
+    "id": "PROSE MODELING LANGUAGE",
+    "name": "PROSE modeling language"
+  },
+  {
+    "id": "PROTEL",
+    "name": "PROTEL"
+  },
+  {
+    "id": "PARASAIL (PROGRAMMING LANGUAGE)",
+    "name": "ParaSail (programming language)"
+  },
+  {
+    "id": "PASCAL",
+    "name": "Pascal"
+  },
+  {
+    "id": "PAWN",
+    "name": "Pawn"
+  },
+  {
+    "id": "PEOPLECODE",
+    "name": "PeopleCode"
+  },
+  {
+    "id": "PERL",
+    "name": "Perl"
+  },
+  {
+    "id": "PHROGRAM",
+    "name": "Phrogram"
+  },
+  {
+    "id": "PICO",
+    "name": "Pico"
+  },
+  {
+    "id": "PICOLISP",
+    "name": "Picolisp"
+  },
+  {
+    "id": "PICT",
+    "name": "Pict"
+  },
+  {
+    "id": "PIKE",
+    "name": "Pike"
+  },
+  {
+    "id": "PIPELINES",
+    "name": "Pipelines"
+  },
+  {
+    "id": "PIZZA",
+    "name": "Pizza"
+  },
+  {
+    "id": "PLANKALK�_L",
+    "name": "Plankalk�_l"
+  },
+  {
+    "id": "PLANNER",
+    "name": "Planner"
+  },
+  {
+    "id": "PLUS",
+    "name": "Plus"
+  },
+  {
+    "id": "PORTABLE",
+    "name": "PortablE"
+  },
+  {
+    "id": "POSTSCRIPT",
+    "name": "PostScript"
+  },
+  {
+    "id": "POWERBUILDER",
+    "name": "PowerBuilder"
+  },
+  {
+    "id": "POWERSHELL",
+    "name": "PowerShell"
+  },
+  {
+    "id": "POWERHOUSE",
+    "name": "Powerhouse"
+  },
+  {
+    "id": "PRO*C",
+    "name": "Pro*C"
+  },
+  {
+    "id": "PROCESSING",
+    "name": "Processing"
+  },
+  {
+    "id": "PROCESSING.JS",
+    "name": "Processing.js"
+  },
+  {
+    "id": "PROGRAPH",
+    "name": "Prograph"
+  },
+  {
+    "id": "PROLOG",
+    "name": "Prolog"
+  },
+  {
+    "id": "PROMELA",
+    "name": "Promela"
+  },
+  {
+    "id": "PROVIDEX",
+    "name": "ProvideX"
+  },
+  {
+    "id": "PURE",
+    "name": "Pure"
+  },
+  {
+    "id": "PYTHON",
+    "name": "Python"
+  },
+  {
+    "id": "Q (EQUATIONAL PROGRAMMING LANGUAGE)",
+    "name": "Q (equational programming language)"
+  },
+  {
+    "id": "Q (PROGRAMMING LANGUAGE FROM KX SYSTEMS)",
+    "name": "Q (programming language from Kx Systems)"
+  },
+  {
+    "id": "QPL",
+    "name": "QPL"
+  },
+  {
+    "id": "QALB",
+    "name": "Qalb"
+  },
+  {
+    "id": "QI",
+    "name": "Qi"
+  },
+  {
+    "id": "QTSCRIPT",
+    "name": "QtScript"
+  },
+  {
+    "id": "QUAKEC",
+    "name": "QuakeC"
+  },
+  {
+    "id": "R",
+    "name": "R"
+  },
+  {
+    "id": "R++",
+    "name": "R++"
+  },
+  {
+    "id": "RAPID",
+    "name": "RAPID"
+  },
+  {
+    "id": "REBOL",
+    "name": "REBOL"
+  },
+  {
+    "id": "REFAL",
+    "name": "REFAL"
+  },
+  {
+    "id": "REXX",
+    "name": "REXX"
+  },
+  {
+    "id": "ROOP",
+    "name": "ROOP"
+  },
+  {
+    "id": "RPG",
+    "name": "RPG"
+  },
+  {
+    "id": "RPL",
+    "name": "RPL"
+  },
+  {
+    "id": "RSL",
+    "name": "RSL"
+  },
+  {
+    "id": "RTL/2",
+    "name": "RTL/2"
+  },
+  {
+    "id": "RACKET",
+    "name": "Racket"
+  },
+  {
+    "id": "RAPIRA",
+    "name": "Rapira"
+  },
+  {
+    "id": "RATFIV",
+    "name": "Ratfiv"
+  },
+  {
+    "id": "RATFOR",
+    "name": "Ratfor"
+  },
+  {
+    "id": "RED",
+    "name": "Red"
+  },
+  {
+    "id": "REDCODE",
+    "name": "Redcode"
+  },
+  {
+    "id": "REIA",
+    "name": "Reia"
+  },
+  {
+    "id": "REVOLUTION",
+    "name": "Revolution"
+  },
+  {
+    "id": "RLAB",
+    "name": "Rlab"
+  },
+  {
+    "id": "ROBOTC",
+    "name": "RobotC"
+  },
+  {
+    "id": "RUBY",
+    "name": "Ruby"
+  },
+  {
+    "id": "RUNESCRIPT",
+    "name": "RuneScript"
+  },
+  {
+    "id": "RUST",
+    "name": "Rust"
+  },
+  {
+    "id": "S",
+    "name": "S"
+  },
+  {
+    "id": "S-LANG",
+    "name": "S-Lang"
+  },
+  {
+    "id": "S-PLUS",
+    "name": "S-PLUS"
+  },
+  {
+    "id": "S/SL",
+    "name": "S/SL"
+  },
+  {
+    "id": "S2",
+    "name": "S2"
+  },
+  {
+    "id": "S3",
+    "name": "S3"
+  },
+  {
+    "id": "SA-C",
+    "name": "SA-C"
+  },
+  {
+    "id": "SAIL",
+    "name": "SAIL"
+  },
+  {
+    "id": "SALSA",
+    "name": "SALSA"
+  },
+  {
+    "id": "SAM76",
+    "name": "SAM76"
+  },
+  {
+    "id": "SAS",
+    "name": "SAS"
+  },
+  {
+    "id": "SASL",
+    "name": "SASL"
+  },
+  {
+    "id": "SBL",
+    "name": "SBL"
+  },
+  {
+    "id": "SETL",
+    "name": "SETL"
+  },
+  {
+    "id": "SIGNAL",
+    "name": "SIGNAL"
+  },
+  {
+    "id": "SIMPOL",
+    "name": "SIMPOL"
+  },
+  {
+    "id": "SIMSCRIPT",
+    "name": "SIMSCRIPT"
+  },
+  {
+    "id": "SISAL",
+    "name": "SISAL"
+  },
+  {
+    "id": "SLIP",
+    "name": "SLIP"
+  },
+  {
+    "id": "SMALL",
+    "name": "SMALL"
+  },
+  {
+    "id": "SML",
+    "name": "SML"
+  },
+  {
+    "id": "SNOBOL",
+    "name": "SNOBOL"
+  },
+  {
+    "id": "SOL",
+    "name": "SOL"
+  },
+  {
+    "id": "SP/K",
+    "name": "SP/k"
+  },
+  {
+    "id": "SPARK",
+    "name": "SPARK"
+  },
+  {
+    "id": "SPIN",
+    "name": "SPIN"
+  },
+  {
+    "id": "SPITBOL",
+    "name": "SPITBOL"
+  },
+  {
+    "id": "SPS",
+    "name": "SPS"
+  },
+  {
+    "id": "SR",
+    "name": "SR"
+  },
+  {
+    "id": "SYMPL",
+    "name": "SYMPL"
+  },
+  {
+    "id": "SABRETALK",
+    "name": "SabreTalk"
+  },
+  {
+    "id": "SATHER",
+    "name": "Sather"
+  },
+  {
+    "id": "SAWZALL",
+    "name": "Sawzall"
+  },
+  {
+    "id": "SCALA",
+    "name": "Scala"
+  },
+  {
+    "id": "SCHEME",
+    "name": "Scheme"
+  },
+  {
+    "id": "SCILAB",
+    "name": "Scilab"
+  },
+  {
+    "id": "SCRATCH",
+    "name": "Scratch"
+  },
+  {
+    "id": "SCRIPT.NET",
+    "name": "Script.NET"
+  },
+  {
+    "id": "SED",
+    "name": "Sed"
+  },
+  {
+    "id": "SEED7",
+    "name": "Seed7"
+  },
+  {
+    "id": "SELF",
+    "name": "Self"
+  },
+  {
+    "id": "SENSETALK",
+    "name": "SenseTalk"
+  },
+  {
+    "id": "SEQUENCEL",
+    "name": "SequenceL"
+  },
+  {
+    "id": "SHAKESPEARE",
+    "name": "Shakespeare"
+  },
+  {
+    "id": "SHIFT SCRIPT",
+    "name": "Shift Script"
+  },
+  {
+    "id": "SIMPLE",
+    "name": "SiMPLE"
+  },
+  {
+    "id": "SIMULA",
+    "name": "Simula"
+  },
+  {
+    "id": "SIMULINK",
+    "name": "Simulink"
+  },
+  {
+    "id": "SMALL BASIC",
+    "name": "Small Basic"
+  },
+  {
+    "id": "SMALLTALK",
+    "name": "Smalltalk"
+  },
+  {
+    "id": "SNAP!",
+    "name": "Snap!"
+  },
+  {
+    "id": "SNOWBALL",
+    "name": "Snowball"
+  },
+  {
+    "id": "SPAN",
+    "name": "Span"
+  },
+  {
+    "id": "SQUEAK",
+    "name": "Squeak"
+  },
+  {
+    "id": "SQUIRREL",
+    "name": "Squirrel"
+  },
+  {
+    "id": "STACKLESS PYTHON",
+    "name": "Stackless Python"
+  },
+  {
+    "id": "STARLOGO",
+    "name": "Starlogo"
+  },
+  {
+    "id": "STATA",
+    "name": "Stata"
+  },
+  {
+    "id": "STATEFLOW",
+    "name": "Stateflow"
+  },
+  {
+    "id": "STRAND",
+    "name": "Strand"
+  },
+  {
+    "id": "SUBTEXT",
+    "name": "Subtext"
+  },
+  {
+    "id": "SUPERCOLLIDER",
+    "name": "SuperCollider"
+  },
+  {
+    "id": "SUPERTALK",
+    "name": "SuperTalk"
+  },
+  {
+    "id": "SWIFT (APPLE PROGRAMMING LANGUAGE)",
+    "name": "Swift (Apple programming language)"
+  },
+  {
+    "id": "SWIFT (PARALLEL SCRIPTING LANGUAGE)",
+    "name": "Swift (parallel scripting language)"
+  },
+  {
+    "id": "SYNCCHARTS",
+    "name": "SyncCharts"
+  },
+  {
+    "id": "SYSTEMVERILOG",
+    "name": "SystemVerilog"
+  },
+  {
+    "id": "T",
+    "name": "T"
+  },
+  {
+    "id": "T-SQL",
+    "name": "T-SQL"
+  },
+  {
+    "id": "TACL",
+    "name": "TACL"
+  },
+  {
+    "id": "TACPOL",
+    "name": "TACPOL"
+  },
+  {
+    "id": "TADS",
+    "name": "TADS"
+  },
+  {
+    "id": "TAL",
+    "name": "TAL"
+  },
+  {
+    "id": "TECO",
+    "name": "TECO"
+  },
+  {
+    "id": "TELCOMP",
+    "name": "TELCOMP"
+  },
+  {
+    "id": "TEX",
+    "name": "TEX"
+  },
+  {
+    "id": "TIE",
+    "name": "TIE"
+  },
+  {
+    "id": "TMG",
+    "name": "TMG"
+  },
+  {
+    "id": "TOM",
+    "name": "TOM"
+  },
+  {
+    "id": "TPU",
+    "name": "TPU"
+  },
+  {
+    "id": "TTCN",
+    "name": "TTCN"
+  },
+  {
+    "id": "TTM",
+    "name": "TTM"
+  },
+  {
+    "id": "TUTOR",
+    "name": "TUTOR"
+  },
+  {
+    "id": "TXL",
+    "name": "TXL"
+  },
+  {
+    "id": "TCL",
+    "name": "Tcl"
+  },
+  {
+    "id": "TEX",
+    "name": "TeX"
+  },
+  {
+    "id": "TEA",
+    "name": "Tea"
+  },
+  {
+    "id": "TIMBER",
+    "name": "Timber"
+  },
+  {
+    "id": "TOM",
+    "name": "Tom"
+  },
+  {
+    "id": "TOPSPEED",
+    "name": "Topspeed"
+  },
+  {
+    "id": "TRAC",
+    "name": "Trac"
+  },
+  {
+    "id": "TURBO C++",
+    "name": "Turbo C++"
+  },
+  {
+    "id": "TURING",
+    "name": "Turing"
+  },
+  {
+    "id": "TYPESCRIPT",
+    "name": "TypeScript"
+  },
+  {
+    "id": "UCSD PASCAL",
+    "name": "UCSD Pascal"
+  },
+  {
+    "id": "UNITY",
+    "name": "UNITY"
+  },
+  {
+    "id": "UBERCODE",
+    "name": "Ubercode"
+  },
+  {
+    "id": "UMPLE",
+    "name": "Umple"
+  },
+  {
+    "id": "UNICON",
+    "name": "Unicon"
+  },
+  {
+    "id": "UNIFACE",
+    "name": "Uniface"
+  },
+  {
+    "id": "UNIX SHELL",
+    "name": "Unix shell"
+  },
+  {
+    "id": "UNREALSCRIPT",
+    "name": "UnrealScript"
+  },
+  {
+    "id": "VBA",
+    "name": "VBA"
+  },
+  {
+    "id": "VBSCRIPT",
+    "name": "VBScript"
+  },
+  {
+    "id": "VHDL",
+    "name": "VHDL"
+  },
+  {
+    "id": "VSXU",
+    "name": "VSXu"
+  },
+  {
+    "id": "VALA",
+    "name": "Vala"
+  },
+  {
+    "id": "VERILOG",
+    "name": "Verilog"
+  },
+  {
+    "id": "VISUAL BASIC",
+    "name": "Visual Basic"
+  },
+  {
+    "id": "VISUAL BASIC .NET",
+    "name": "Visual Basic .NET"
+  },
+  {
+    "id": "VISUAL DATAFLEX",
+    "name": "Visual DataFlex"
+  },
+  {
+    "id": "VISUAL DIALOGSCRIPT",
+    "name": "Visual DialogScript"
+  },
+  {
+    "id": "VISUAL FORTRAN",
+    "name": "Visual Fortran"
+  },
+  {
+    "id": "VISUAL FOXPRO",
+    "name": "Visual FoxPro"
+  },
+  {
+    "id": "VISUAL J#",
+    "name": "Visual J#"
+  },
+  {
+    "id": "VISUAL J++",
+    "name": "Visual J++"
+  },
+  {
+    "id": "VISUAL OBJECTS",
+    "name": "Visual Objects"
+  },
+  {
+    "id": "VISUAL PROLOG",
+    "name": "Visual Prolog"
+  },
+  {
+    "id": "VVVV",
+    "name": "Vvvv"
+  },
+  {
+    "id": "WATFIV, WATFOR",
+    "name": "WATFIV, WATFOR"
+  },
+  {
+    "id": "WEBDNA",
+    "name": "WebDNA"
+  },
+  {
+    "id": "WEBQL",
+    "name": "WebQL"
+  },
+  {
+    "id": "WINBATCH",
+    "name": "Winbatch"
+  },
+  {
+    "id": "WINDOWS POWERSHELL",
+    "name": "Windows PowerShell"
+  },
+  {
+    "id": "WOLFRAM",
+    "name": "Wolfram"
+  },
+  {
+    "id": "WYVERN",
+    "name": "Wyvern"
+  },
+  {
+    "id": "X#",
+    "name": "X#"
+  },
+  {
+    "id": "X++",
+    "name": "X++"
+  },
+  {
+    "id": "X10",
+    "name": "X10"
+  },
+  {
+    "id": "XBL",
+    "name": "XBL"
+  },
+  {
+    "id": "XC",
+    "name": "XC"
+  },
+  {
+    "id": "XL",
+    "name": "XL"
+  },
+  {
+    "id": "XMOS ARCHITECTURE",
+    "name": "XMOS architecture"
+  },
+  {
+    "id": "XOTCL",
+    "name": "XOTcl"
+  },
+  {
+    "id": "XPL",
+    "name": "XPL"
+  },
+  {
+    "id": "XPL0",
+    "name": "XPL0"
+  },
+  {
+    "id": "XPATH",
+    "name": "XPath"
+  },
+  {
+    "id": "XQUERY",
+    "name": "XQuery"
+  },
+  {
+    "id": "XSB",
+    "name": "XSB"
+  },
+  {
+    "id": "XSLT",
+    "name": "XSLT"
+  },
+  {
+    "id": "XOJO",
+    "name": "Xojo"
+  },
+  {
+    "id": "XTEND",
+    "name": "Xtend"
+  },
+  {
+    "id": "YQL",
+    "name": "YQL"
+  },
+  {
+    "id": "YORICK",
+    "name": "Yorick"
+  },
+  {
+    "id": "Z NOTATION",
+    "name": "Z notation"
+  },
+  {
+    "id": "ZOPL",
+    "name": "ZOPL"
+  },
+  {
+    "id": "ZPL",
+    "name": "ZPL"
+  },
+  {
+    "id": "ZENO",
+    "name": "Zeno"
+  },
+  {
+    "id": "BASH",
+    "name": "bash"
+  },
+  {
+    "id": "BC",
+    "name": "bc"
+  },
+  {
+    "id": "CHOMSKI",
+    "name": "chomski"
+  },
+  {
+    "id": "CSH",
+    "name": "csh"
+  },
+  {
+    "id": "DBASE",
+    "name": "dBase"
+  },
+  {
+    "id": "DC",
+    "name": "dc"
+  },
+  {
+    "id": "ES",
+    "name": "es"
+  },
+  {
+    "id": "KSH",
+    "name": "ksh"
+  },
+  {
+    "id": "KSH",
+    "name": "ksh"
+  },
+  {
+    "id": "MAKE",
+    "name": "make"
+  },
+  {
+    "id": "NESC",
+    "name": "nesC"
+  },
+  {
+    "id": "O:XML",
+    "name": "o:XML"
+  },
+  {
+    "id": "OCCAM",
+    "name": "occam"
+  },
+  {
+    "id": "OCCAM-��",
+    "name": "occam-��"
+  },
+  {
+    "id": "RC",
+    "name": "rc"
+  },
+  {
+    "id": "REX",
+    "name": "rex"
+  },
+  {
+    "id": "XHARBOUR",
+    "name": "xHarbour"
+  }
+]

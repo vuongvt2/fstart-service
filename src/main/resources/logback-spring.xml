@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <property resource="application.yaml"/>
+    <property name="commonLog"
+              value="Time:%date{yyyy-MM-dd HH:mm:ss}\t"/>
+
+    <property name="LOG_PATH" value="/tmp/fstart-service/logs" />
+
+    <!-- framework-file log -->
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_PATH}/fstart-service.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_PATH}/fstart-service.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxHistory>5</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>%-7([%level]):%msg %logger %n</pattern>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>INFO</level>
+        </filter>
+    </appender>
+
+    <!-- framework-console log -->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%-7([%level]):%msg %logger %n</pattern>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>INFO</level>
+        </filter>
+    </appender>
+
+    <!-- access log -->
+    <appender name="accessLog" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_PATH}/fstart-service_access.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_PATH}/fstart-service_access.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxHistory>5</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${comFormat}\t%msg%n</pattern>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>INFO</level>
+        </filter>
+    </appender>
+
+    <!-- debug log -->
+    <appender name="debugLog" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_PATH}/fstart-service_debug.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_PATH}/fstart-service_debug.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxHistory>5</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${comFormat}\t%msg%n</pattern>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>DEBUG</level>
+        </filter>
+    </appender>
+
+    <!-- error log -->
+    <appender name="errorLog" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_PATH}/fstart-service_error.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_PATH}/fstart-service_error.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxHistory>5</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${comFormat}\t%msg%n</pattern>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>ERROR</level>
+        </filter>
+    </appender>
+
+    <logger name="accessLogger" level="debug" additivity="false">
+        <appender-ref ref="accessLog" />
+        <appender-ref ref="STDOUT" />
+    </logger>
+
+    <logger name="debugLogger" level="debug" additivity="false">
+        <appender-ref ref="debugLog" />
+        <appender-ref ref="STDOUT" />
+    </logger>
+
+    <logger name="errorLogger" level="debug" additivity="false">
+        <appender-ref ref="errorLog" />
+        <appender-ref ref="STDOUT" />
+    </logger>
+
+    <root>
+        <appender-ref ref="FILE" />
+        <appender-ref ref="STDOUT" />
+    </root>
+
+</configuration>

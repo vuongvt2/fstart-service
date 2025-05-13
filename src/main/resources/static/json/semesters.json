@@ -1,0 +1,14 @@
+[
+  {
+    "id": "SPRING",
+    "name": "Spring"
+  },
+  {
+    "id": "SUMMER",
+    "name": "Summer"
+  },
+  {
+    "id": "FALL",
+    "name": "Fall"
+  }
+]

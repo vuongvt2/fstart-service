@@ -1,0 +1,15 @@
+## Spring
+spring:
+# Datasource
+  datasource:
+    url: jdbc:postgresql://localhost:5432/fstartdb
+    username: postgres
+    password: passwordPWD
+    driver-class-name: org.postgresql.Driver
+
+## Logging
+logging:
+  level:
+    com.fstart.service: DEBUG
+  file:
+    path: /Users/VuongVT2/Documents/working/fstart/logs
