@@ -1,0 +1,15 @@
+## Spring
+spring:
+  # Datasource
+  datasource:
+    url: jdbc:postgresql://103.75.185.147:5432/fstartdb_stg
+    username: postgres
+    password: passwordRemoteDB
+    driver-class-name: org.postgresql.Driver
+
+## Logging
+logging:
+  level:
+    com.fstart.service: DEBUG
+  file:
+    path: /tmp/fstart/logs
